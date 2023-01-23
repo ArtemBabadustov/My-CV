@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=main.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Primary|SchDesignator=Primary|FileName=Voltage detectV2.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Voltage detectV2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Secondary|SchDesignator=Secondary|FileName=Voltage detectV2.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Voltage detectV2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=־בשטי 5ֲ_־ן_׃ס Pin=U1-12
+Removed Pin From Net: NetName=5ֲ_Op_Amp Pin=U1-13
+Removed Pin From Net: NetName=־בשטי 5ֲ Pin=U2-12
+Removed Pin From Net: NetName=5ֲ Pin=U2-13
+Removed Pin From Net: NetName=־בשטי RS Pin=U3-12
+Removed Pin From Net: NetName=NetC3_2 Pin=U3-13
+Change Component DesignItemId : Designator=U3 Old DesignItemId=THM 3-2411 New DesignItemId=Isolated DC/DC (TMR 2-2411WI)
+Change Component DesignItemId : Designator=U1 Old DesignItemId=THM 6-1211 New DesignItemId=Isolated DC/DC (TMR 2-2411WI)
+Change Component DesignItemId : Designator=U2 Old DesignItemId=THM 6-1211 New DesignItemId=Isolated DC/DC (TMR 2-2411WI)
+Change Component Footprint: Designator=U1 Old Footprint=CONV_THM_10-2411 New Footprint=SIP-9
+Change Component Footprint: Designator=U2 Old Footprint=CONV_THM_10-2411 New Footprint=SIP-9
+Change Component Footprint: Designator=U3 Old Footprint=CONV_THM_10-2411 New Footprint=SIP-9
+Change Component Comment : Designator=U3 Old Comment=THM 3-2411 New Comment=Isolated DC/DC (TMR 2-2411WI)
+Change Component Comment : Designator=U1 Old Comment=THM 6-1211 New Comment=Isolated DC/DC (TMR 2-2411WI)
+Change Component Comment : Designator=U2 Old Comment=THM 6-1211 New Comment=Isolated DC/DC (TMR 2-2411WI)
+Change Component Description : Designator=U3 Old Description=3W 18-36Vin 5Vout New Description=
+Change Component Description : Designator=U1 Old Description=6W 18-36Vin 5Vout New Description=
+Change Component Description : Designator=U2 Old Description=6W 18-36Vin 5Vout New Description=
+Change component parameters: Designator = "U1" ("U1"); Footprint = "CONV_THM_10-2411"; UniqueID = "\UKHOVSXD" ("\UKHOVSXD")
+Change component parameters: Designator = "U2" ("U2"); Footprint = "CONV_THM_10-2411"; UniqueID = "\YNQTLLHV" ("\YNQTLLHV")
+Change component parameters: Designator = "U3" ("U3"); Footprint = "CONV_THM_10-2411"; UniqueID = "\VHWEIBNU" ("\VHWEIBNU")
+Added Pin To Net: NetName=־בשטי 5ֲ_־ן_׃ס Pin=U1-6
+Added Pin To Net: NetName=5ֲ_Op_Amp Pin=U1-9
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=U2-6
+Added Pin To Net: NetName=5ֲ Pin=U2-9
+Added Pin To Net: NetName=־בשטי RS Pin=U3-6
+Added Pin To Net: NetName=NetC3_2 Pin=U3-9
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetU1_2 Pin=U1-3
+Added Pin To Net: NetName=NetU1_2 Pin=U2-2
+Added Pin To Net: NetName=NetU1_2 Pin=U2-3
+Added Pin To Net: NetName=NetU1_2 Pin=U3-2
+Added Pin To Net: NetName=NetU1_2 Pin=U3-3
+Added Pin To Net: NetName=NetU1_2 Pin=X1-2
+Added Net: Name=NetU1_2

@@ -1,0 +1,106 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap Film 0.1uF New DesignItemId=Cap 0.1uF (0603)
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap Film 0.1uF New DesignItemId=Cap 0.1uF (0603)
+Change Component DesignItemId : Designator=C3 Old DesignItemId=Cap Film 0.1uF New DesignItemId=Cap 0.1uF (0603)
+Change Component DesignItemId : Designator=C4 Old DesignItemId=Cap Film 0.1uF New DesignItemId=Cap 0.1uF (0603)
+Change Component DesignItemId : Designator=C5 Old DesignItemId=Cap Film 0.1uF New DesignItemId=Cap 0.1uF (0603)
+Change Component DesignItemId : Designator=C6 Old DesignItemId=Cap Film 0.1uF New DesignItemId=Cap 0.1uF (0603)
+Change Component DesignItemId : Designator=C7 Old DesignItemId=Cap Film 0.1uF New DesignItemId=Cap 0.1uF (0603)
+Change Component DesignItemId : Designator=C8 Old DesignItemId=Cap Film 0.1uF New DesignItemId=Cap 0.1uF (0603)
+Change Component DesignItemId : Designator=C9 Old DesignItemId=Cap Film 0.1uF New DesignItemId=Cap 0.1uF (0603)
+Change Component DesignItemId : Designator=C10 Old DesignItemId=Cap Film 0.1uF New DesignItemId=Cap 0.1uF (0603)
+Change Component DesignItemId : Designator=C11 Old DesignItemId=Cap Film 0.1uF New DesignItemId=Cap 0.1uF (0603)
+Change Component Footprint: Designator=C1 Old Footprint=CAP Film 9x18 New Footprint=0603 Capicator
+Change Component Footprint: Designator=C2 Old Footprint=CAP Film 9x18 New Footprint=0603 Capicator
+Change Component Footprint: Designator=C3 Old Footprint=CAP Film 9x18 New Footprint=0603 Capicator
+Change Component Footprint: Designator=C4 Old Footprint=CAP Film 9x18 New Footprint=0603 Capicator
+Change Component Footprint: Designator=C5 Old Footprint=CAP Film 9x18 New Footprint=0603 Capicator
+Change Component Footprint: Designator=C6 Old Footprint=CAP Film 9x18 New Footprint=0603 Capicator
+Change Component Footprint: Designator=C7 Old Footprint=CAP Film 9x18 New Footprint=0603 Capicator
+Change Component Footprint: Designator=C8 Old Footprint=CAP Film 9x18 New Footprint=0603 Capicator
+Change Component Footprint: Designator=C9 Old Footprint=CAP Film 9x18 New Footprint=0603 Capicator
+Change Component Footprint: Designator=C10 Old Footprint=CAP Film 9x18 New Footprint=0603 Capicator
+Change Component Footprint: Designator=C11 Old Footprint=CAP Film 9x18 New Footprint=0603 Capicator
+Change Component Comment : Designator=R2 Old Comment=2k New Comment=1k
+Change Component Comment : Designator=R9 Old Comment=2k New Comment=1k
+Change Component Comment : Designator=R6 Old Comment=2k New Comment=4.7k
+Change Component Comment : Designator=R3 Old Comment=3k New Comment=1k
+Change Component Comment : Designator=R5 Old Comment=3k New Comment=4.7k
+Change Component Comment : Designator=R4 Old Comment=4k New Comment=4.7k
+Change Component Comment : Designator=U1 Old Comment=TMH2405S New Comment=DC/DC
+Change Component Description : Designator=C1 Old Description=0.1uF 1000V 5% New Description=0.1uF X7R 16V 10% 0603
+Change Component Description : Designator=C2 Old Description=0.1uF 1000V 5% New Description=0.1uF X7R 16V 10% 0603
+Change Component Description : Designator=C3 Old Description=0.1uF 1000V 5% New Description=0.1uF X7R 16V 10% 0603
+Change Component Description : Designator=C4 Old Description=0.1uF 1000V 5% New Description=0.1uF X7R 16V 10% 0603
+Change Component Description : Designator=C5 Old Description=0.1uF 1000V 5% New Description=0.1uF X7R 16V 10% 0603
+Change Component Description : Designator=C6 Old Description=0.1uF 1000V 5% New Description=0.1uF X7R 16V 10% 0603
+Change Component Description : Designator=C7 Old Description=0.1uF 1000V 5% New Description=0.1uF X7R 16V 10% 0603
+Change Component Description : Designator=C8 Old Description=0.1uF 1000V 5% New Description=0.1uF X7R 16V 10% 0603
+Change Component Description : Designator=C9 Old Description=0.1uF 1000V 5% New Description=0.1uF X7R 16V 10% 0603
+Change Component Description : Designator=C10 Old Description=0.1uF 1000V 5% New Description=0.1uF X7R 16V 10% 0603
+Change Component Description : Designator=C11 Old Description=0.1uF 1000V 5% New Description=0.1uF X7R 16V 10% 0603
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAP Film 9x18"; UniqueID = "\CCZUWIWA" ("\CCZUWIWA")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAP Film 9x18"; UniqueID = "\XRRDVNEG" ("\XRRDVNEG")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAP Film 9x18"; UniqueID = "\AFIVHLPH" ("\AFIVHLPH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAP Film 9x18"; UniqueID = "\JXAODIJE" ("\JXAODIJE")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP Film 9x18"; UniqueID = "\GDTCSCXU" ("\GDTCSCXU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAP Film 9x18"; UniqueID = "\MKRJWMRM\BAYGMTLS" ("\MKRJWMRM\BAYGMTLS")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAP Film 9x18"; UniqueID = "\MKRJWMRM\NQYWHOBV" ("\MKRJWMRM\NQYWHOBV")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAP Film 9x18"; UniqueID = "\MKRJWMRM\RFCZZHRF" ("\MKRJWMRM\RFCZZHRF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAP Film 9x18"; UniqueID = "\MKRJWMRM\VNJAVLQQ" ("\MKRJWMRM\VNJAVLQQ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAP Film 9x18"; UniqueID = "\MKRJWMRM\ZXLRAXZU" ("\MKRJWMRM\ZXLRAXZU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAP Film 9x18"; UniqueID = "\MKRJWMRM\SKCRWNJO" ("\MKRJWMRM\SKCRWNJO")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"

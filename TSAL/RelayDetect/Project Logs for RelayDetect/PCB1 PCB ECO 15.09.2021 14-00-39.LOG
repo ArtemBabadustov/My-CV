@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=Detection2 Member=C1
+Removed Member From Class: ClassName=Detection1 Member=R1
+Removed Member From Class: ClassName=Detection2 Member=R2
+Removed Member From Class: ClassName=Detection2 Member=R4
+Removed Member From Class: ClassName=Detection2 Member=R6
+Removed Member From Class: ClassName=Detection2 Member=U1
+Removed Member From Class: ClassName=Detection2 Member=U3
+Removed Member From Class: ClassName=Detection2 Member=U5
+Added Component: Designator=*(BRT_Log)
+Added Member To Class: ClassName=1 Member=Component * BRT Log
+Added Member To Class: ClassName=Detection2 Member=Component C12 (C10) 0.1uF
+Added Member To Class: ClassName=Detection1 Member=Component R16 (R15) 1k
+Added Member To Class: ClassName=Detection2 Member=Component R17 (R6) 1k
+Added Member To Class: ClassName=Detection2 Member=Component R19 (R8) 1k
+Added Member To Class: ClassName=Detection2 Member=Component R21 (R10) 4.7k
+Added Member To Class: ClassName=Detection2 Member=Component U25 (U10) Comparator
+Added Member To Class: ClassName=Detection2 Member=Component U27 (U12) Comparator
+Added Member To Class: ClassName=Detection2 Member=Component U29 (U15) Comparator

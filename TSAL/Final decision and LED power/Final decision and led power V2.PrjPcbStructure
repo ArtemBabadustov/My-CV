@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Sheet1 V2.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Sheet1 V2.SchDoc|Designator=A1|SchDesignator=A1|FileName=SignalReciever.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=SignalReciever.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sheet1 V2.SchDoc|Designator=A2|SchDesignator=A2|FileName=SignalReciever.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=SignalReciever.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

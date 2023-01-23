@@ -1,0 +1,6 @@
+--c99 -c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F3xx_HAL_Driver/Inc -I ../Drivers/STM32F3xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F3xx/Include -I ../Drivers/CMSIS/Include
+-I E:\BRT-LAB-2-PC\Desktop\CMUX_F303K8_CAN_TEST\CMUX_F303K8_CAN_TEST\CMUX_F303K8_CAN_TEST\MDK-ARM\RTE
+-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include
+-I C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F3xx\Include
+-D__UVISION_VERSION="520" -D_RTE_ -DSTM32F303x8 -DUSE_HAL_DRIVER -DSTM32F303x8
+-o 88\variables.o --omf_browse 88\variables.crf --depend 88\variables.d "Variables.c"

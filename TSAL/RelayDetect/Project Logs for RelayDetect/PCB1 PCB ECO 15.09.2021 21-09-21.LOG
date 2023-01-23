@@ -1,0 +1,293 @@
+Removed Pin From Net: NetName=In1 Pin=U6-3
+Removed Pin From Net: NetName=+4V Pin=U6-4
+Removed Pin From Net: NetName=In1 Pin=U7-3
+Removed Pin From Net: NetName=+3V Pin=U7-4
+Removed Pin From Net: NetName=In4 Pin=U8-3
+Removed Pin From Net: NetName=+4V Pin=U8-4
+Removed Pin From Net: NetName=In1 Pin=U9-3
+Removed Pin From Net: NetName=+2V Pin=U9-4
+Removed Pin From Net: NetName=In4 Pin=U10-3
+Removed Pin From Net: NetName=+3V Pin=U10-4
+Removed Pin From Net: NetName=In2 Pin=U11-3
+Removed Pin From Net: NetName=+4V Pin=U11-4
+Removed Pin From Net: NetName=In2 Pin=U14-3
+Removed Pin From Net: NetName=+3V Pin=U14-4
+Removed Pin From Net: NetName=NetU13_13 Pin=U15-1
+Removed Pin From Net: NetName=In4 Pin=U15-3
+Removed Pin From Net: NetName=+2V Pin=U15-4
+Removed Pin From Net: NetName=In2 Pin=U17-3
+Removed Pin From Net: NetName=+2V Pin=U17-4
+Removed Pin From Net: NetName=In3 Pin=U18-3
+Removed Pin From Net: NetName=+4V Pin=U18-4
+Removed Pin From Net: NetName=In3 Pin=U19-3
+Removed Pin From Net: NetName=+3V Pin=U19-4
+Removed Pin From Net: NetName=In3 Pin=U21-3
+Removed Pin From Net: NetName=+2V Pin=U21-4
+Removed Pin From Net: NetName=In1 Pin=U24-3
+Removed Pin From Net: NetName=+4V Pin=U24-4
+Removed Pin From Net: NetName=In1 Pin=U25-3
+Removed Pin From Net: NetName=+3V Pin=U25-4
+Removed Pin From Net: NetName=In4 Pin=U26-3
+Removed Pin From Net: NetName=+4V Pin=U26-4
+Removed Pin From Net: NetName=In1 Pin=U27-3
+Removed Pin From Net: NetName=+2V Pin=U27-4
+Removed Pin From Net: NetName=In4 Pin=U28-3
+Removed Pin From Net: NetName=+3V Pin=U28-4
+Removed Pin From Net: NetName=In2 Pin=U29-3
+Removed Pin From Net: NetName=+4V Pin=U29-4
+Removed Pin From Net: NetName=In2 Pin=U32-3
+Removed Pin From Net: NetName=+3V Pin=U32-4
+Removed Pin From Net: NetName=NetU31_13 Pin=U33-1
+Removed Pin From Net: NetName=In4 Pin=U33-3
+Removed Pin From Net: NetName=+2V Pin=U33-4
+Removed Pin From Net: NetName=In2 Pin=U35-3
+Removed Pin From Net: NetName=+2V Pin=U35-4
+Removed Pin From Net: NetName=In3 Pin=U36-3
+Removed Pin From Net: NetName=+4V Pin=U36-4
+Removed Pin From Net: NetName=In3 Pin=U37-3
+Removed Pin From Net: NetName=+3V Pin=U37-4
+Removed Pin From Net: NetName=In3 Pin=U39-3
+Removed Pin From Net: NetName=+2V Pin=U39-4
+Change Component DesignItemId : Designator=U44 Old DesignItemId=2 (4AND) New DesignItemId=2(4AND)
+Change Component DesignItemId : Designator=U49 Old DesignItemId=2 (4AND) New DesignItemId=2(4AND)
+Change Component DesignItemId : Designator=U45 Old DesignItemId=2 (4NOR) New DesignItemId=2(4NOR)
+Change Component DesignItemId : Designator=U50 Old DesignItemId=2 (4NOR) New DesignItemId=2(4NOR)
+Change Component DesignItemId : Designator=U13 Old DesignItemId=4 (2AND) New DesignItemId=2And
+Change Component DesignItemId : Designator=U22 Old DesignItemId=4 (2AND) New DesignItemId=2And
+Change Component DesignItemId : Designator=U31 Old DesignItemId=4 (2AND) New DesignItemId=2And
+Change Component DesignItemId : Designator=U40 Old DesignItemId=4 (2AND) New DesignItemId=2And
+Change Component DesignItemId : Designator=U43 Old DesignItemId=4 (2AND) New DesignItemId=2And
+Change Component DesignItemId : Designator=U48 Old DesignItemId=4 (2AND) New DesignItemId=2And
+Change Component DesignItemId : Designator=U42 Old DesignItemId=4 (2XOR) New DesignItemId=4(2XOR)
+Change Component DesignItemId : Designator=U47 Old DesignItemId=4 (2XOR) New DesignItemId=4(2XOR)
+Change Component DesignItemId : Designator=U12 Old DesignItemId=Inverter New DesignItemId=Inverter (SN74)
+Change Component DesignItemId : Designator=U16 Old DesignItemId=Inverter New DesignItemId=Inverter (SN74)
+Change Component DesignItemId : Designator=U20 Old DesignItemId=Inverter New DesignItemId=Inverter (SN74)
+Change Component DesignItemId : Designator=U23 Old DesignItemId=Inverter New DesignItemId=Inverter (SN74)
+Change Component DesignItemId : Designator=U30 Old DesignItemId=Inverter New DesignItemId=Inverter (SN74)
+Change Component DesignItemId : Designator=U34 Old DesignItemId=Inverter New DesignItemId=Inverter (SN74)
+Change Component DesignItemId : Designator=U38 Old DesignItemId=Inverter New DesignItemId=Inverter (SN74)
+Change Component DesignItemId : Designator=U41 Old DesignItemId=Inverter New DesignItemId=Inverter (SN74)
+Change Component DesignItemId : Designator=U46 Old DesignItemId=Inverter New DesignItemId=Inverter (SN74)
+Change Component DesignItemId : Designator=U51 Old DesignItemId=Inverter New DesignItemId=Inverter (SN74)
+Change Component Comment : Designator=U6 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U7 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U8 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U9 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U10 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U11 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U14 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U15 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U17 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U18 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U19 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U21 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U24 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U25 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U26 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U27 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U28 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U29 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U32 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U33 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U35 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U36 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U37 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=U39 Old Comment=Comparator New Comment=Comp
+Change Component Comment : Designator=J1 Old Comment=Conn2x1 New Comment=MicroFit 2x1
+Change Component Comment : Designator=J2 Old Comment=Conn2x1 New Comment=MicroFit 2x1
+Change Component Comment : Designator=J3 Old Comment=Conn2x1 New Comment=MicroFit 2x1
+Change Component Comment : Designator=J4 Old Comment=Conn2x1 New Comment=MicroFit 2x1
+Change Component Comment : Designator=J5 Old Comment=Conn4x1 New Comment=MicroFit 4x1
+Change Component Description : Designator=U44 Old Description=2 (4AND) New Description=2 logic elements "4AND"
+Change Component Description : Designator=U49 Old Description=2 (4AND) New Description=2 logic elements "4AND"
+Change Component Description : Designator=U45 Old Description=2 (4NOR) New Description=2 logic elements "4NOR"
+Change Component Description : Designator=U50 Old Description=2 (4NOR) New Description=2 logic elements "4NOR"
+Change Component Description : Designator=U13 Old Description=4 (2AND) New Description=4 logic elements "2AND"
+Change Component Description : Designator=U22 Old Description=4 (2AND) New Description=4 logic elements "2AND"
+Change Component Description : Designator=U31 Old Description=4 (2AND) New Description=4 logic elements "2AND"
+Change Component Description : Designator=U40 Old Description=4 (2AND) New Description=4 logic elements "2AND"
+Change Component Description : Designator=U43 Old Description=4 (2AND) New Description=4 logic elements "2AND"
+Change Component Description : Designator=U48 Old Description=4 (2AND) New Description=4 logic elements "2AND"
+Change Component Description : Designator=U42 Old Description=4 (2XOR) New Description=4 logic elements "2XOR"
+Change Component Description : Designator=U47 Old Description=4 (2XOR) New Description=4 logic elements "2XOR"
+Change Component Description : Designator=U12 Old Description=Inverter New Description=Dual inverter, 1.65-5.5V
+Change Component Description : Designator=U16 Old Description=Inverter New Description=Dual inverter, 1.65-5.5V
+Change Component Description : Designator=U20 Old Description=Inverter New Description=Dual inverter, 1.65-5.5V
+Change Component Description : Designator=U23 Old Description=Inverter New Description=Dual inverter, 1.65-5.5V
+Change Component Description : Designator=U30 Old Description=Inverter New Description=Dual inverter, 1.65-5.5V
+Change Component Description : Designator=U34 Old Description=Inverter New Description=Dual inverter, 1.65-5.5V
+Change Component Description : Designator=U38 Old Description=Inverter New Description=Dual inverter, 1.65-5.5V
+Change Component Description : Designator=U41 Old Description=Inverter New Description=Dual inverter, 1.65-5.5V
+Change Component Description : Designator=U46 Old Description=Inverter New Description=Dual inverter, 1.65-5.5V
+Change Component Description : Designator=U51 Old Description=Inverter New Description=Dual inverter, 1.65-5.5V
+Change Component Description : Designator=U6 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U7 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U8 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U9 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U10 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U11 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U14 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U15 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U17 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U18 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U19 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U21 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U24 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U25 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U26 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U27 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U28 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U29 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U32 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U33 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U35 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U36 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U37 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Description : Designator=U39 Old Description=LMV7219 7-ns 2.7-V to 5-V Comparator with Rail-to-Rail Output New Description=Differential comparator with strobes
+Change Component Library : Designator=U12 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U13 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U16 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U20 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U22 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U23 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U30 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U31 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U34 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U38 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U40 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U41 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U42 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U43 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U44 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U45 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U46 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U47 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U48 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U49 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U50 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Change Component Library : Designator=U51 Old Library=TSAL.IntLib New Library=BRT_Components.IntLib
+Added Pin To Net: NetName=In1 Pin=U6-1
+Added Pin To Net: NetName=+4V Pin=U6-3
+Added Pin To Net: NetName=In1 Pin=U7-1
+Added Pin To Net: NetName=+3V Pin=U7-3
+Added Pin To Net: NetName=In4 Pin=U8-1
+Added Pin To Net: NetName=+4V Pin=U8-3
+Added Pin To Net: NetName=In1 Pin=U9-1
+Added Pin To Net: NetName=+2V Pin=U9-3
+Added Pin To Net: NetName=In4 Pin=U10-1
+Added Pin To Net: NetName=+3V Pin=U10-3
+Added Pin To Net: NetName=In2 Pin=U11-1
+Added Pin To Net: NetName=+4V Pin=U11-3
+Added Pin To Net: NetName=In2 Pin=U14-1
+Added Pin To Net: NetName=+3V Pin=U14-3
+Added Pin To Net: NetName=In4 Pin=U15-1
+Added Pin To Net: NetName=+2V Pin=U15-3
+Added Pin To Net: NetName=NetU13_13 Pin=U15-4
+Added Pin To Net: NetName=In2 Pin=U17-1
+Added Pin To Net: NetName=+2V Pin=U17-3
+Added Pin To Net: NetName=In3 Pin=U18-1
+Added Pin To Net: NetName=+4V Pin=U18-3
+Added Pin To Net: NetName=In3 Pin=U19-1
+Added Pin To Net: NetName=+3V Pin=U19-3
+Added Pin To Net: NetName=In3 Pin=U21-1
+Added Pin To Net: NetName=+2V Pin=U21-3
+Added Pin To Net: NetName=In1 Pin=U24-1
+Added Pin To Net: NetName=+4V Pin=U24-3
+Added Pin To Net: NetName=In1 Pin=U25-1
+Added Pin To Net: NetName=+3V Pin=U25-3
+Added Pin To Net: NetName=In4 Pin=U26-1
+Added Pin To Net: NetName=+4V Pin=U26-3
+Added Pin To Net: NetName=In1 Pin=U27-1
+Added Pin To Net: NetName=+2V Pin=U27-3
+Added Pin To Net: NetName=In4 Pin=U28-1
+Added Pin To Net: NetName=+3V Pin=U28-3
+Added Pin To Net: NetName=In2 Pin=U29-1
+Added Pin To Net: NetName=+4V Pin=U29-3
+Added Pin To Net: NetName=In2 Pin=U32-1
+Added Pin To Net: NetName=+3V Pin=U32-3
+Added Pin To Net: NetName=In4 Pin=U33-1
+Added Pin To Net: NetName=+2V Pin=U33-3
+Added Pin To Net: NetName=NetU31_13 Pin=U33-4
+Added Pin To Net: NetName=In2 Pin=U35-1
+Added Pin To Net: NetName=+2V Pin=U35-3
+Added Pin To Net: NetName=In3 Pin=U36-1
+Added Pin To Net: NetName=+4V Pin=U36-3
+Added Pin To Net: NetName=In3 Pin=U37-1
+Added Pin To Net: NetName=+3V Pin=U37-3
+Added Pin To Net: NetName=In3 Pin=U39-1
+Added Pin To Net: NetName=+2V Pin=U39-3
+Added Pin To Net: NetName=NetU6_4 Pin=U6-4
+Added Pin To Net: NetName=NetU6_4 Pin=U16-1
+Added Net: Name=NetU6_4
+Added Pin To Net: NetName=NetU7_4 Pin=U7-4
+Added Pin To Net: NetName=NetU7_4 Pin=U13-2
+Added Pin To Net: NetName=NetU7_4 Pin=U16-3
+Added Net: Name=NetU7_4
+Added Pin To Net: NetName=NetU8_4 Pin=U8-4
+Added Pin To Net: NetName=NetU8_4 Pin=U12-1
+Added Net: Name=NetU8_4
+Added Pin To Net: NetName=NetU9_4 Pin=U9-4
+Added Pin To Net: NetName=NetU9_4 Pin=U13-5
+Added Net: Name=NetU9_4
+Added Pin To Net: NetName=NetU10_4 Pin=U10-4
+Added Pin To Net: NetName=NetU10_4 Pin=U12-3
+Added Pin To Net: NetName=NetU10_4 Pin=U13-10
+Added Net: Name=NetU10_4
+Added Pin To Net: NetName=NetU11_4 Pin=U11-4
+Added Pin To Net: NetName=NetU11_4 Pin=U20-1
+Added Net: Name=NetU11_4
+Added Pin To Net: NetName=NetU14_4 Pin=U14-4
+Added Pin To Net: NetName=NetU14_4 Pin=U20-3
+Added Pin To Net: NetName=NetU14_4 Pin=U22-10
+Added Net: Name=NetU14_4
+Added Pin To Net: NetName=NetU17_4 Pin=U17-4
+Added Pin To Net: NetName=NetU17_4 Pin=U22-13
+Added Net: Name=NetU17_4
+Added Pin To Net: NetName=NetU18_4 Pin=U18-4
+Added Pin To Net: NetName=NetU18_4 Pin=U23-1
+Added Net: Name=NetU18_4
+Added Pin To Net: NetName=NetU19_4 Pin=U19-4
+Added Pin To Net: NetName=NetU19_4 Pin=U22-2
+Added Pin To Net: NetName=NetU19_4 Pin=U23-3
+Added Net: Name=NetU19_4
+Added Pin To Net: NetName=NetU21_4 Pin=U21-4
+Added Pin To Net: NetName=NetU21_4 Pin=U22-5
+Added Net: Name=NetU21_4
+Added Pin To Net: NetName=NetU24_4 Pin=U24-4
+Added Pin To Net: NetName=NetU24_4 Pin=U34-1
+Added Net: Name=NetU24_4
+Added Pin To Net: NetName=NetU25_4 Pin=U25-4
+Added Pin To Net: NetName=NetU25_4 Pin=U31-2
+Added Pin To Net: NetName=NetU25_4 Pin=U34-3
+Added Net: Name=NetU25_4
+Added Pin To Net: NetName=NetU26_4 Pin=U26-4
+Added Pin To Net: NetName=NetU26_4 Pin=U30-1
+Added Net: Name=NetU26_4
+Added Pin To Net: NetName=NetU27_4 Pin=U27-4
+Added Pin To Net: NetName=NetU27_4 Pin=U31-5
+Added Net: Name=NetU27_4
+Added Pin To Net: NetName=NetU28_4 Pin=U28-4
+Added Pin To Net: NetName=NetU28_4 Pin=U30-3
+Added Pin To Net: NetName=NetU28_4 Pin=U31-10
+Added Net: Name=NetU28_4
+Added Pin To Net: NetName=NetU29_4 Pin=U29-4
+Added Pin To Net: NetName=NetU29_4 Pin=U38-1
+Added Net: Name=NetU29_4
+Added Pin To Net: NetName=NetU32_4 Pin=U32-4
+Added Pin To Net: NetName=NetU32_4 Pin=U38-3
+Added Pin To Net: NetName=NetU32_4 Pin=U40-10
+Added Net: Name=NetU32_4
+Added Pin To Net: NetName=NetU35_4 Pin=U35-4
+Added Pin To Net: NetName=NetU35_4 Pin=U40-13
+Added Net: Name=NetU35_4
+Added Pin To Net: NetName=NetU36_4 Pin=U36-4
+Added Pin To Net: NetName=NetU36_4 Pin=U41-1
+Added Net: Name=NetU36_4
+Added Pin To Net: NetName=NetU37_4 Pin=U37-4
+Added Pin To Net: NetName=NetU37_4 Pin=U40-2
+Added Pin To Net: NetName=NetU37_4 Pin=U41-3
+Added Net: Name=NetU37_4
+Added Pin To Net: NetName=NetU39_4 Pin=U39-4
+Added Pin To Net: NetName=NetU39_4 Pin=U40-5
+Added Net: Name=NetU39_4

@@ -1,0 +1,30 @@
+Removed Member From Class: ClassName=Detection1 Member=C29
+Removed Member From Class: ClassName=Detection1 Member=C33
+Removed Member From Class: ClassName=Detection1 Member=C34
+Removed Member From Class: ClassName=Detection1 Member=C36
+Removed Member From Class: ClassName=Detection1 Member=C37
+Removed Member From Class: ClassName=Detection1 Member=C38
+Removed Member From Class: ClassName=Detection1 Member=C39
+Removed Member From Class: ClassName=Detection1 Member=C40
+Removed Member From Class: ClassName=Detection1 Member=C42
+Removed Member From Class: ClassName=Detection1 Member=C43
+Removed Member From Class: ClassName=Detection2 Member=C44
+Removed Member From Class: ClassName=Detection2 Member=C45
+Removed Member From Class: ClassName=Detection2 Member=C46
+Removed Member From Class: ClassName=Detection2 Member=C47
+Added Member To Class: ClassName=Detection1 Member=Component C4 (C15) 0.1uF
+Added Member To Class: ClassName=Detection1 Member=Component C6 (C17) 0.1uF
+Added Member To Class: ClassName=Detection1 Member=Component C7 (C18) 0.1uF
+Added Member To Class: ClassName=Detection1 Member=Component C8 (C19) 0.1uF
+Added Member To Class: ClassName=Detection1 Member=Component C10 (C21) 0.1uF
+Added Member To Class: ClassName=Detection1 Member=Component C11 (C6) 0.1uF
+Added Member To Class: ClassName=Detection1 Member=Component C12 (C22) 0.1uF
+Added Member To Class: ClassName=Detection1 Member=Component C13 (C7) 0.1uF
+Added Member To Class: ClassName=Detection1 Member=Component C14 (C23) 0.1uF
+Added Member To Class: ClassName=Detection1 Member=Component C16 (C9) 0.1uF
+Added Member To Class: ClassName=Detection1 Member=Component C18 (C10) 0.1uF
+Added Member To Class: ClassName=Detection1 Member=Component C19 (C11) 0.1uF
+Added Member To Class: ClassName=Detection2 Member=Component C20 (C13) 0.1uF
+Added Member To Class: ClassName=Detection2 Member=Component C21 (C14) 0.1uF
+Added Member To Class: ClassName=Detection2 Member=Component C22 (C15) 0.1uF
+Added Member To Class: ClassName=Detection2 Member=Component C23 (C16) 0.1uF

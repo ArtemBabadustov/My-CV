@@ -1,0 +1,11 @@
+Added Component: Designator=C?(Bar Cap 4x5.4)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/b41121a7475m000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Epcos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "B41121A7475M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_in Pin=C?-1
+Added Pin To Net: NetName=+24V_in Pin=C?-2
+Added Member To Class: ClassName=Main Member=Component C? 4.7uF
+Added Room: Name=Detection
+Added Room: Name=Main

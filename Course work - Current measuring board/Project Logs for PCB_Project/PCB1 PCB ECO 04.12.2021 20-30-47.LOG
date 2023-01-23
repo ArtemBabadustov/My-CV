@@ -1,0 +1,201 @@
+Added Component: Designator=C1(0805)
+Added Component: Designator=C2(0805)
+Added Component: Designator=C3(0805)
+Added Component: Designator=C4(0805)
+Added Component: Designator=C5(0805)
+Added Component: Designator=C6(0805)
+Added Component: Designator=C7(0805)
+Added Component: Designator=C8(0805)
+Added Component: Designator=C10(0805)
+Added Component: Designator=C11(0805)
+Added Component: Designator=C12(0805)
+Added Component: Designator=C13(0805)
+Added Component: Designator=C14(0805)
+Added Component: Designator=C15(0805)
+Added Component: Designator=DA4(HVSSOP-8)
+Added Component: Designator=DA5(DIP6)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "CHIPDIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/pvg612s"; VariantName = "[No Variations]"
+Added Component: Designator=DA6(DIP6)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "CHIPDIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/pvg612s"; VariantName = "[No Variations]"
+Added Component: Designator=DA7(DIP6)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "CHIPDIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/pvg612s"; VariantName = "[No Variations]"
+Added Component: Designator=DD1(SSOP-16)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/lit/ds/symlink/iso1500.pdf?ts=1632655446349&ref_url=https%253A%252F%252Fwww.ti.com%252Fisolation%252Fisolated-interfaces%252Frs-485-transceivers%252Foverview.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "ׁסûכךא Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product1/8003093154"; VariantName = "[No Variations]"
+Added Component: Designator=DD2(TQFP-44)
+Added Component: Designator=Q1(SOT-23-3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/nup2105lt1g"; VariantName = "[No Variations]"
+Added Component: Designator=QZ1(XTAL)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/8006373177"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=U1(CONV_THM_10-2411)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/8006915262"; VariantName = "[No Variations]"
+Added Component: Designator=U2(CONV_THM_10-2411)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/8006915262"; VariantName = "[No Variations]"
+Added Component: Designator=U3(CONV_THM_10-2411)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/8006388794"; VariantName = "[No Variations]"
+Added Component: Designator=X1(MolexMicroFit 2x1)
+Added Component: Designator=X2(MolexMicroFit 3x1)
+Added Component: Designator=XP1(PLD 10)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "CHIPDIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/pld-10"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=־בשטי 5ֲ_־ן_׃ס  Pin=C1-1
+Added Pin To Net: NetName=5ֲ_Op_Amp Pin=C1-2
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=C2-1
+Added Pin To Net: NetName=5ֲ Pin=C2-2
+Added Pin To Net: NetName=־בשטי RS Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=־בשטי RS Pin=C4-1
+Added Pin To Net: NetName=NetC3_2 Pin=C4-2
+Added Pin To Net: NetName=־בשטי RS Pin=C5-1
+Added Pin To Net: NetName=NetC3_2 Pin=C5-2
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=C6-1
+Added Pin To Net: NetName=5ֲ Pin=C6-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=C7-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=C8-2
+Added Pin To Net: NetName=5ֲ Pin=C10-1
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=C10-2
+Added Pin To Net: NetName=5ֲ Pin=C11-1
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=C11-2
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=C12-1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC12_2 Pin=C13-2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_1 Pin=C15-1
+Added Pin To Net: NetName=5ֲ Pin=C15-2
+Added Pin To Net: NetName=NetC12_2 Pin=DA4-1
+Added Pin To Net: NetName=NetC13_1 Pin=DA4-2
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=DA4-4
+Added Pin To Net: NetName=NetC14_1 Pin=DA4-5
+Added Pin To Net: NetName=NetC14_2 Pin=DA4-6
+Added Pin To Net: NetName=5ֲ Pin=DA4-8
+Added Pin To Net: NetName=NetDA5_1 Pin=DA5-1
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=DA5-2
+Added Pin To Net: NetName=NetD1_1 Pin=DA5-4
+Added Pin To Net: NetName=27ֲ Pin=DA5-6
+Added Pin To Net: NetName=NetDA6_1 Pin=DA6-1
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=DA6-2
+Added Pin To Net: NetName=NetD2_1 Pin=DA6-4
+Added Pin To Net: NetName=27ֲ Pin=DA6-6
+Added Pin To Net: NetName=NetDA7_1 Pin=DA7-1
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=DA7-2
+Added Pin To Net: NetName=NetD3_1 Pin=DA7-4
+Added Pin To Net: NetName=27ֲ Pin=DA7-6
+Added Pin To Net: NetName=5ֲ Pin=DD1-1
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=DD1-2
+Added Pin To Net: NetName=RXD Pin=DD1-3
+Added Pin To Net: NetName=5ֲ Pin=DD1-4
+Added Pin To Net: NetName=5ֲ Pin=DD1-5
+Added Pin To Net: NetName=RXD Pin=DD1-6
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=DD1-8
+Added Pin To Net: NetName=־בשטי RS Pin=DD1-9
+Added Pin To Net: NetName=NetC3_2 Pin=DD1-10
+Added Pin To Net: NetName=NetDD1_12 Pin=DD1-12
+Added Pin To Net: NetName=NetDD1_13 Pin=DD1-13
+Added Pin To Net: NetName=־בשטי RS Pin=DD1-15
+Added Pin To Net: NetName=NetC3_2 Pin=DD1-16
+Added Pin To Net: NetName=PB 0 Pin=DD2-1
+Added Pin To Net: NetName=PB 1 Pin=DD2-2
+Added Pin To Net: NetName=PB 2 Pin=DD2-3
+Added Pin To Net: NetName=5ֲ Pin=DD2-10
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=DD2-11
+Added Pin To Net: NetName=NetC7_1 Pin=DD2-12
+Added Pin To Net: NetName=NetC8_1 Pin=DD2-13
+Added Pin To Net: NetName=RXD Pin=DD2-14
+Added Pin To Net: NetName=RXD Pin=DD2-15
+Added Pin To Net: NetName=ADC 0 Pin=DD2-21
+Added Pin To Net: NetName=ADC 1 Pin=DD2-22
+Added Pin To Net: NetName=ADC 2 Pin=DD2-23
+Added Pin To Net: NetName=NetC12_2 Pin=DD2-29
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=DD2-30
+Added Pin To Net: NetName=5ֲ Pin=DD2-31
+Added Pin To Net: NetName=TDI Pin=DD2-34
+Added Pin To Net: NetName=TDO Pin=DD2-35
+Added Pin To Net: NetName=TMS Pin=DD2-36
+Added Pin To Net: NetName=TCK Pin=DD2-37
+Added Pin To Net: NetName=NetDD1_13 Pin=Q1-1
+Added Pin To Net: NetName=NetDD1_12 Pin=Q1-2
+Added Pin To Net: NetName=־בשטי RS Pin=Q1-3
+Added Pin To Net: NetName=NetC8_1 Pin=QZ1-1
+Added Pin To Net: NetName=NetC7_1 Pin=QZ1-2
+Added Pin To Net: NetName=PB 0 Pin=R1-1
+Added Pin To Net: NetName=NetDA5_1 Pin=R1-2
+Added Pin To Net: NetName=PB 2 Pin=R2-1
+Added Pin To Net: NetName=NetDA7_1 Pin=R2-2
+Added Pin To Net: NetName=PB 1 Pin=R3-1
+Added Pin To Net: NetName=NetDA6_1 Pin=R3-2
+Added Pin To Net: NetName=27ֲ Pin=U1-1
+Added Pin To Net: NetName=־בשטי 5ֲ_־ן_׃ס  Pin=U1-12
+Added Pin To Net: NetName=5ֲ_Op_Amp Pin=U1-13
+Added Pin To Net: NetName=NetU1_23 Pin=U1-23
+Added Pin To Net: NetName=NetU1_23 Pin=U1-24
+Added Pin To Net: NetName=27ֲ Pin=U2-1
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=U2-12
+Added Pin To Net: NetName=5ֲ Pin=U2-13
+Added Pin To Net: NetName=NetU1_23 Pin=U2-23
+Added Pin To Net: NetName=NetU1_23 Pin=U2-24
+Added Pin To Net: NetName=27ֲ Pin=U3-1
+Added Pin To Net: NetName=־בשטי RS Pin=U3-12
+Added Pin To Net: NetName=NetC3_2 Pin=U3-13
+Added Pin To Net: NetName=NetU1_23 Pin=U3-23
+Added Pin To Net: NetName=NetU1_23 Pin=U3-24
+Added Pin To Net: NetName=27ֲ Pin=X1-1
+Added Pin To Net: NetName=NetU1_23 Pin=X1-2
+Added Pin To Net: NetName=NetDD1_13 Pin=X2-1
+Added Pin To Net: NetName=NetDD1_12 Pin=X2-2
+Added Pin To Net: NetName=־בשטי RS Pin=X2-3
+Added Pin To Net: NetName=TCK Pin=XP1-1
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=XP1-2
+Added Pin To Net: NetName=TDO Pin=XP1-3
+Added Pin To Net: NetName=5ֲ Pin=XP1-4
+Added Pin To Net: NetName=TMS Pin=XP1-5
+Added Pin To Net: NetName=TDI Pin=XP1-9
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=XP1-10
+Added Member To Class: ClassName=Sheet4 Member=Component C1 CAP
+Added Member To Class: ClassName=Sheet4 Member=Component C2 CAP
+Added Member To Class: ClassName=Sheet4 Member=Component C3 CAP
+Added Member To Class: ClassName=Sheet4 Member=Component C4 CAP
+Added Member To Class: ClassName=Sheet4 Member=Component C5 CAP
+Added Member To Class: ClassName=Sheet4 Member=Component C6 CAP
+Added Member To Class: ClassName=Sheet4 Member=Component C7 CAP
+Added Member To Class: ClassName=Sheet4 Member=Component C8 CAP
+Added Member To Class: ClassName=Sheet4 Member=Component C10 CAP
+Added Member To Class: ClassName=Sheet4 Member=Component C11 CAP
+Added Member To Class: ClassName=Sheet4 Member=Component C12 CAP
+Added Member To Class: ClassName=Sheet4 Member=Component C13 CAP
+Added Member To Class: ClassName=Sheet4 Member=Component C14 CAP
+Added Member To Class: ClassName=Sheet4 Member=Component C15 CAP
+Added Member To Class: ClassName=Sheet4 Member=Component DA4 TPS7A4901
+Added Member To Class: ClassName=Sheet4 Member=Component DA5 SSR
+Added Member To Class: ClassName=Sheet4 Member=Component DA6 SSR
+Added Member To Class: ClassName=Sheet4 Member=Component DA7 SSR
+Added Member To Class: ClassName=Sheet4 Member=Component DD1 MAX 485
+Added Member To Class: ClassName=Sheet4 Member=Component DD2 Atmega16
+Added Member To Class: ClassName=Sheet4 Member=Component Q1 Bipolar TVS diode
+Added Member To Class: ClassName=Sheet4 Member=Component QZ1 Quartz rez
+Added Member To Class: ClassName=Sheet4 Member=Component R1 Res
+Added Member To Class: ClassName=Sheet4 Member=Component R2 Res
+Added Member To Class: ClassName=Sheet4 Member=Component R3 Res
+Added Member To Class: ClassName=Sheet4 Member=Component U1 THM 6-1211
+Added Member To Class: ClassName=Sheet4 Member=Component U2 THM 6-1211
+Added Member To Class: ClassName=Sheet4 Member=Component U3 THM 3-2411
+Added Member To Class: ClassName=Sheet4 Member=Component X1 2 pin power connector (Molex)
+Added Member To Class: ClassName=Sheet4 Member=Component X2 3 pin RS485 connector (Molex)
+Added Member To Class: ClassName=Sheet4 Member=Component XP1 JTAG Connector(10pin)
+Added Room: Name=Sheet4

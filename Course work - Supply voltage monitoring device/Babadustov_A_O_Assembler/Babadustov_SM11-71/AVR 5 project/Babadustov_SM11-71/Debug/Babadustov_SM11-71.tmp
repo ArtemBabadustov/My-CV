@@ -1,0 +1,63 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.51</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Studio 5.1\extensions\Atmel\AVRAssembler\2.1.51.17\AvrAssembler/Include</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Studio 5.1\extensions\Atmel\AVRAssembler\2.1.51.17\AvrAssembler/Include\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Debug/Babadustov_SM11-71.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Debug/Babadustov_SM11-71.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Debug\Babadustov_SM11-71.map</FILE>
+  <FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Debug\Babadustov_SM11-71.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Init><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>131</LINE></Init>
+  <REC_date><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>345</LINE></REC_date>
+  <TRANdate><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>430</LINE></TRANdate>
+  <Init_B><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>138</LINE></Init_B>
+  <Init_D><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>144</LINE></Init_D>
+  <Start><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>200</LINE></Start>
+  <Receive><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>339</LINE></Receive>
+  <get_Voltage><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>206</LINE></get_Voltage>
+  <start_ADC><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>236</LINE></start_ADC>
+  <wait_ADC><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>214</LINE></wait_ADC>
+  <izm_Nkan><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>222</LINE></izm_Nkan>
+  <out_ADC><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>249</LINE></out_ADC>
+  <ch_mux_ADC><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>230</LINE></ch_mux_ADC>
+  <ex_c_mux><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>233</LINE></ex_c_mux>
+  <ch_4izm><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>255</LINE></ch_4izm>
+  <sh_ADC><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>265</LINE></sh_ADC>
+  <ch_2izm><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>259</LINE></ch_2izm>
+  <ch_1izm><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>263</LINE></ch_1izm>
+  <norm_ADC><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>271</LINE></norm_ADC>
+  <voltege_drop_handler><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>291</LINE></voltege_drop_handler>
+  <Error_Sourse1><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>296</LINE></Error_Sourse1>
+  <Error_Sourse2><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>301</LINE></Error_Sourse2>
+  <ex_voltege_drop_handler><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>306</LINE></ex_voltege_drop_handler>
+  <Transceive><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>420</LINE></Transceive>
+  <IN_ADC><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>313</LINE></IN_ADC>
+  <rd_ADC><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>317</LINE></rd_ADC>
+  <end_ADC><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>332</LINE></end_ADC>
+  <ex_INADC><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>326</LINE></ex_INADC>
+  <rd_UDR><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>351</LINE></rd_UDR>
+  <rt_rec><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>370</LINE></rt_rec>
+  <Rec_Err><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>354</LINE></Rec_Err>
+  <pop_rec><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>363</LINE></pop_rec>
+  <USART2NoError><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>374</LINE></USART2NoError>
+  <Select1><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>381</LINE></Select1>
+  <Select2><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>387</LINE></Select2>
+  <Shot_Down><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>393</LINE></Shot_Down>
+  <Selected_Sourse_Fault><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>403</LINE></Selected_Sourse_Fault>
+  <Selection_Success><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>397</LINE></Selection_Success>
+  <rec_end><FILE>D:\Kyrsovoy Proect po Electronike\Kursovoi GIT\Babadustov_A_O_Assembler\Babadustov_SM11-71\Babadustov_SM11-71\Babadustov_SM11-71.asm</FILE><LINE>408</LINE></rec_end>
+ </LABELS>
+</ASSEMBLER_INFO>

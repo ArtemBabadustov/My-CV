@@ -1,0 +1,1268 @@
+Added Component: Designator=C1_Primary(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C1_Secondary(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C2_Primary(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C2_Secondary(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C3_Primary(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C3_Secondary(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C4_Primary(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C4_Secondary(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C5_Primary(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C5_Secondary(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C6_Detection1(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C6_Detection2(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C7_Detection1(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C7_Detection2(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C8_Detection1(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C8_Detection2(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C9_Detection1(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C9_Detection2(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C10_Detection1(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C10_Detection2(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C11_Detection1(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C11_Detection2(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71c104ka01d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71C104KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C12(Bar Cap 4x5.4)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/b41121a7475m000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Epcos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "B41121A7475M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=J1(MolexMicroFit 2x1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/0436500200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "436500200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J2(MolexMicroFit 2x1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/0436500200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "436500200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J3(MolexMicroFit 2x1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/0436500200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "436500200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J4(MolexMicroFit 2x1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/0436500200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "436500200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J5(MolexMicroFit 4x1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/0436500400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "436500400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Primary(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Secondary(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Primary(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Secondary(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R3_Primary(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R3_Secondary(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R4_Primary(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R4_Secondary(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R5_Primary(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R5_Secondary(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R6_Detection1(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R6_Detection2(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R7_Detection1(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R7_Detection2(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R8_Detection1(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R8_Detection2(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R9_Detection1(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079728"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R9_Detection2(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079728"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R10_Detection1(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079728"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R10_Detection2(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079728"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R11_Detection1(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079728"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R11_Detection2(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079728"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R12_Detection1(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R12_Detection2(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R13_Detection1(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R13_Detection2(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R14_Detection1(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R14_Detection2(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R15_Detection1(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R15_Detection2(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R16(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R17(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R18(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R19(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R20(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R21(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=U1_Primary(SOIC-14)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/74hc86d"; VariantName = "[No Variations]"
+Added Component: Designator=U1_Secondary(SOIC-14)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/74hc86d"; VariantName = "[No Variations]"
+Added Component: Designator=U2_Primary(SOIC-14)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/sn74ac08dr"; VariantName = "[No Variations]"
+Added Component: Designator=U2_Secondary(SOIC-14)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/sn74ac08dr"; VariantName = "[No Variations]"
+Added Component: Designator=U3_Primary(SOIC-14)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/74hc21d.653"; VariantName = "[No Variations]"
+Added Component: Designator=U3_Secondary(SOIC-14)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/74hc21d.653"; VariantName = "[No Variations]"
+Added Component: Designator=U4_Primary(SOIC-14)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/74hc4002d"; VariantName = "[No Variations]"
+Added Component: Designator=U4_Secondary(SOIC-14)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/74hc4002d"; VariantName = "[No Variations]"
+Added Component: Designator=U5_Primary(SOT236)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/sn74lvc2g04dbvr-2"; VariantName = "[No Variations]"
+Added Component: Designator=U5_Secondary(SOT236)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/sn74lvc2g04dbvr-2"; VariantName = "[No Variations]"
+Added Component: Designator=U7_Detection1(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U7_Detection2(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U8_Detection1(SOT236)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/sn74lvc2g04dbvr-2"; VariantName = "[No Variations]"
+Added Component: Designator=U8_Detection2(SOT236)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/sn74lvc2g04dbvr-2"; VariantName = "[No Variations]"
+Added Component: Designator=U9_Detection1(SOIC-14)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/sn74ac08dr"; VariantName = "[No Variations]"
+Added Component: Designator=U9_Detection2(SOIC-14)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/sn74ac08dr"; VariantName = "[No Variations]"
+Added Component: Designator=U10_Detection1(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U10_Detection2(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U11_Detection1(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U11_Detection2(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U12_Detection1(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U12_Detection2(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U13_Detection1(SOT236)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/sn74lvc2g04dbvr-2"; VariantName = "[No Variations]"
+Added Component: Designator=U13_Detection2(SOT236)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/sn74lvc2g04dbvr-2"; VariantName = "[No Variations]"
+Added Component: Designator=U14_Detection1(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U14_Detection2(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U15_Detection1(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U15_Detection2(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U16_Detection1(SOT236)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/sn74lvc2g04dbvr-2"; VariantName = "[No Variations]"
+Added Component: Designator=U16_Detection2(SOT236)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/sn74lvc2g04dbvr-2"; VariantName = "[No Variations]"
+Added Component: Designator=U17_Detection1(SOIC-14)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/sn74ac08dr"; VariantName = "[No Variations]"
+Added Component: Designator=U17_Detection2(SOIC-14)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/sn74ac08dr"; VariantName = "[No Variations]"
+Added Component: Designator=U18_Detection1(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U18_Detection2(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U19_Detection1(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U19_Detection2(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U20_Detection1(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U20_Detection2(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U21_Detection1(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U21_Detection2(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U22_Detection1(SOT236)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/sn74lvc2g04dbvr-2"; VariantName = "[No Variations]"
+Added Component: Designator=U22_Detection2(SOT236)
+Add component (AddParameter): Name = "Chip&Dip"; Value = "https://www.chipdip.ru/product/sn74lvc2g04dbvr-2"; VariantName = "[No Variations]"
+Added Component: Designator=U23_Detection1(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U23_Detection2(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U24_Detection1(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U24_Detection2(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U25(FAIR-MDIP-4_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/fod817b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/297/DOC000297284.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Nomber"; Value = "FOD817B"; VariantName = "[No Variations]"
+Added Component: Designator=U26(FAIR-MDIP-4_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/fod817b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/297/DOC000297284.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Nomber"; Value = "FOD817B"; VariantName = "[No Variations]"
+Added Component: Designator=U27(SIP7)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/tmv2412s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/005/DOC001005854.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Traco Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TMH2412S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U28(FAIR-MDIP-4_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/fod817b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/297/DOC000297284.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Nomber"; Value = "FOD817B"; VariantName = "[No Variations]"
+Added Component: Designator=U29(FAIR-MDIP-4_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/fod817b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/297/DOC000297284.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Nomber"; Value = "FOD817B"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+2V Pin=R8_Detection1-1
+Added Pin To Net: NetName=+2V Pin=R8_Detection2-1
+Added Pin To Net: NetName=+2V Pin=R11_Detection1-2
+Added Pin To Net: NetName=+2V Pin=R11_Detection2-2
+Added Pin To Net: NetName=+2V Pin=U12_Detection1-4
+Added Pin To Net: NetName=+2V Pin=U12_Detection2-4
+Added Pin To Net: NetName=+2V Pin=U19_Detection1-4
+Added Pin To Net: NetName=+2V Pin=U19_Detection2-4
+Added Pin To Net: NetName=+2V Pin=U20_Detection1-4
+Added Pin To Net: NetName=+2V Pin=U20_Detection2-4
+Added Pin To Net: NetName=+2V Pin=U24_Detection1-4
+Added Pin To Net: NetName=+2V Pin=U24_Detection2-4
+Added Net: Name=+2V
+Added Pin To Net: NetName=+3V Pin=R7_Detection1-1
+Added Pin To Net: NetName=+3V Pin=R7_Detection2-1
+Added Pin To Net: NetName=+3V Pin=R10_Detection1-2
+Added Pin To Net: NetName=+3V Pin=R10_Detection2-2
+Added Pin To Net: NetName=+3V Pin=U10_Detection1-4
+Added Pin To Net: NetName=+3V Pin=U10_Detection2-4
+Added Pin To Net: NetName=+3V Pin=U14_Detection1-4
+Added Pin To Net: NetName=+3V Pin=U14_Detection2-4
+Added Pin To Net: NetName=+3V Pin=U18_Detection1-4
+Added Pin To Net: NetName=+3V Pin=U18_Detection2-4
+Added Pin To Net: NetName=+3V Pin=U23_Detection1-4
+Added Pin To Net: NetName=+3V Pin=U23_Detection2-4
+Added Net: Name=+3V
+Added Pin To Net: NetName=+4V Pin=R6_Detection1-1
+Added Pin To Net: NetName=+4V Pin=R6_Detection2-1
+Added Pin To Net: NetName=+4V Pin=R9_Detection1-2
+Added Pin To Net: NetName=+4V Pin=R9_Detection2-2
+Added Pin To Net: NetName=+4V Pin=U7_Detection1-4
+Added Pin To Net: NetName=+4V Pin=U7_Detection2-4
+Added Pin To Net: NetName=+4V Pin=U11_Detection1-4
+Added Pin To Net: NetName=+4V Pin=U11_Detection2-4
+Added Pin To Net: NetName=+4V Pin=U15_Detection1-4
+Added Pin To Net: NetName=+4V Pin=U15_Detection2-4
+Added Pin To Net: NetName=+4V Pin=U21_Detection1-4
+Added Pin To Net: NetName=+4V Pin=U21_Detection2-4
+Added Net: Name=+4V
+Added Pin To Net: NetName=+5V Pin=C1_Primary-2
+Added Pin To Net: NetName=+5V Pin=C1_Secondary-2
+Added Pin To Net: NetName=+5V Pin=C2_Primary-2
+Added Pin To Net: NetName=+5V Pin=C2_Secondary-2
+Added Pin To Net: NetName=+5V Pin=C3_Primary-2
+Added Pin To Net: NetName=+5V Pin=C3_Secondary-2
+Added Pin To Net: NetName=+5V Pin=C4_Primary-2
+Added Pin To Net: NetName=+5V Pin=C4_Secondary-2
+Added Pin To Net: NetName=+5V Pin=C5_Primary-2
+Added Pin To Net: NetName=+5V Pin=C5_Secondary-2
+Added Pin To Net: NetName=+5V Pin=R1_Primary-2
+Added Pin To Net: NetName=+5V Pin=R1_Secondary-2
+Added Pin To Net: NetName=+5V Pin=U1_Primary-14
+Added Pin To Net: NetName=+5V Pin=U1_Secondary-14
+Added Pin To Net: NetName=+5V Pin=U2_Primary-14
+Added Pin To Net: NetName=+5V Pin=U2_Secondary-14
+Added Pin To Net: NetName=+5V Pin=U3_Primary-14
+Added Pin To Net: NetName=+5V Pin=U3_Secondary-14
+Added Pin To Net: NetName=+5V Pin=U4_Primary-14
+Added Pin To Net: NetName=+5V Pin=U4_Secondary-14
+Added Pin To Net: NetName=+5V Pin=U5_Primary-5
+Added Pin To Net: NetName=+5V Pin=U5_Secondary-5
+Added Pin To Net: NetName=+5V Pin=U27-6
+Added Net: Name=+5V
+Added Pin To Net: NetName=+24V_in Pin=C12-2
+Added Pin To Net: NetName=+24V_in Pin=J5-1
+Added Pin To Net: NetName=+24V_in Pin=U27-1
+Added Net: Name=+24V_in
+Added Pin To Net: NetName=GND_in Pin=C12-1
+Added Pin To Net: NetName=GND_in Pin=J5-4
+Added Pin To Net: NetName=GND_in Pin=U27-2
+Added Net: Name=GND_in
+Added Pin To Net: NetName=GND Pin=C1_Primary-1
+Added Pin To Net: NetName=GND Pin=C1_Secondary-1
+Added Pin To Net: NetName=GND Pin=C2_Primary-1
+Added Pin To Net: NetName=GND Pin=C2_Secondary-1
+Added Pin To Net: NetName=GND Pin=C3_Primary-1
+Added Pin To Net: NetName=GND Pin=C3_Secondary-1
+Added Pin To Net: NetName=GND Pin=C4_Primary-1
+Added Pin To Net: NetName=GND Pin=C4_Secondary-1
+Added Pin To Net: NetName=GND Pin=C5_Primary-1
+Added Pin To Net: NetName=GND Pin=C5_Secondary-1
+Added Pin To Net: NetName=GND Pin=C6_Detection1-2
+Added Pin To Net: NetName=GND Pin=C6_Detection2-2
+Added Pin To Net: NetName=GND Pin=C7_Detection1-1
+Added Pin To Net: NetName=GND Pin=C7_Detection2-1
+Added Pin To Net: NetName=GND Pin=C8_Detection1-1
+Added Pin To Net: NetName=GND Pin=C8_Detection2-1
+Added Pin To Net: NetName=GND Pin=C9_Detection1-1
+Added Pin To Net: NetName=GND Pin=C9_Detection2-1
+Added Pin To Net: NetName=GND Pin=C10_Detection1-1
+Added Pin To Net: NetName=GND Pin=C10_Detection2-1
+Added Pin To Net: NetName=GND Pin=C11_Detection1-1
+Added Pin To Net: NetName=GND Pin=C11_Detection2-1
+Added Pin To Net: NetName=GND Pin=R2_Primary-1
+Added Pin To Net: NetName=GND Pin=R2_Secondary-1
+Added Pin To Net: NetName=GND Pin=R3_Primary-1
+Added Pin To Net: NetName=GND Pin=R3_Secondary-1
+Added Pin To Net: NetName=GND Pin=R4_Primary-1
+Added Pin To Net: NetName=GND Pin=R4_Secondary-1
+Added Pin To Net: NetName=GND Pin=R5_Primary-1
+Added Pin To Net: NetName=GND Pin=R5_Secondary-1
+Added Pin To Net: NetName=GND Pin=R9_Detection1-1
+Added Pin To Net: NetName=GND Pin=R9_Detection2-1
+Added Pin To Net: NetName=GND Pin=R10_Detection1-1
+Added Pin To Net: NetName=GND Pin=R10_Detection2-1
+Added Pin To Net: NetName=GND Pin=R11_Detection1-1
+Added Pin To Net: NetName=GND Pin=R11_Detection2-1
+Added Pin To Net: NetName=GND Pin=R12_Detection1-1
+Added Pin To Net: NetName=GND Pin=R12_Detection2-1
+Added Pin To Net: NetName=GND Pin=R13_Detection1-1
+Added Pin To Net: NetName=GND Pin=R13_Detection2-1
+Added Pin To Net: NetName=GND Pin=R14_Detection1-1
+Added Pin To Net: NetName=GND Pin=R14_Detection2-1
+Added Pin To Net: NetName=GND Pin=R15_Detection1-1
+Added Pin To Net: NetName=GND Pin=R15_Detection2-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=GND Pin=U1_Primary-7
+Added Pin To Net: NetName=GND Pin=U1_Secondary-7
+Added Pin To Net: NetName=GND Pin=U2_Primary-7
+Added Pin To Net: NetName=GND Pin=U2_Secondary-7
+Added Pin To Net: NetName=GND Pin=U3_Primary-7
+Added Pin To Net: NetName=GND Pin=U3_Secondary-7
+Added Pin To Net: NetName=GND Pin=U4_Primary-7
+Added Pin To Net: NetName=GND Pin=U4_Secondary-7
+Added Pin To Net: NetName=GND Pin=U5_Primary-2
+Added Pin To Net: NetName=GND Pin=U5_Secondary-2
+Added Pin To Net: NetName=GND Pin=U7_Detection1-2
+Added Pin To Net: NetName=GND Pin=U7_Detection2-2
+Added Pin To Net: NetName=GND Pin=U8_Detection1-2
+Added Pin To Net: NetName=GND Pin=U8_Detection2-2
+Added Pin To Net: NetName=GND Pin=U9_Detection1-7
+Added Pin To Net: NetName=GND Pin=U9_Detection2-7
+Added Pin To Net: NetName=GND Pin=U10_Detection1-2
+Added Pin To Net: NetName=GND Pin=U10_Detection2-2
+Added Pin To Net: NetName=GND Pin=U11_Detection1-2
+Added Pin To Net: NetName=GND Pin=U11_Detection2-2
+Added Pin To Net: NetName=GND Pin=U12_Detection1-2
+Added Pin To Net: NetName=GND Pin=U12_Detection2-2
+Added Pin To Net: NetName=GND Pin=U13_Detection1-2
+Added Pin To Net: NetName=GND Pin=U13_Detection2-2
+Added Pin To Net: NetName=GND Pin=U14_Detection1-2
+Added Pin To Net: NetName=GND Pin=U14_Detection2-2
+Added Pin To Net: NetName=GND Pin=U15_Detection1-2
+Added Pin To Net: NetName=GND Pin=U15_Detection2-2
+Added Pin To Net: NetName=GND Pin=U16_Detection1-2
+Added Pin To Net: NetName=GND Pin=U16_Detection2-2
+Added Pin To Net: NetName=GND Pin=U17_Detection1-7
+Added Pin To Net: NetName=GND Pin=U17_Detection2-7
+Added Pin To Net: NetName=GND Pin=U18_Detection1-2
+Added Pin To Net: NetName=GND Pin=U18_Detection2-2
+Added Pin To Net: NetName=GND Pin=U19_Detection1-2
+Added Pin To Net: NetName=GND Pin=U19_Detection2-2
+Added Pin To Net: NetName=GND Pin=U20_Detection1-2
+Added Pin To Net: NetName=GND Pin=U20_Detection2-2
+Added Pin To Net: NetName=GND Pin=U21_Detection1-2
+Added Pin To Net: NetName=GND Pin=U21_Detection2-2
+Added Pin To Net: NetName=GND Pin=U22_Detection1-2
+Added Pin To Net: NetName=GND Pin=U22_Detection2-2
+Added Pin To Net: NetName=GND Pin=U23_Detection1-2
+Added Pin To Net: NetName=GND Pin=U23_Detection2-2
+Added Pin To Net: NetName=GND Pin=U24_Detection1-2
+Added Pin To Net: NetName=GND Pin=U24_Detection2-2
+Added Pin To Net: NetName=GND Pin=U27-4
+Added Net: Name=GND
+Added Pin To Net: NetName=Green1 Pin=U2_Primary-3
+Added Pin To Net: NetName=Green1 Pin=U25-1
+Added Net: Name=Green1
+Added Pin To Net: NetName=Green2 Pin=U2_Secondary-3
+Added Pin To Net: NetName=Green2 Pin=U28-1
+Added Net: Name=Green2
+Added Pin To Net: NetName=Green_On1_Primary Pin=U1_Primary-2
+Added Pin To Net: NetName=Green_On1_Primary Pin=U3_Primary-1
+Added Pin To Net: NetName=Green_On1_Primary Pin=U9_Detection1-6
+Added Net: Name=Green_On1_Primary
+Added Pin To Net: NetName=Green_On1_Secondary Pin=U1_Secondary-2
+Added Pin To Net: NetName=Green_On1_Secondary Pin=U3_Secondary-1
+Added Pin To Net: NetName=Green_On1_Secondary Pin=U9_Detection2-6
+Added Net: Name=Green_On1_Secondary
+Added Pin To Net: NetName=Green_On2_Primary Pin=U1_Primary-5
+Added Pin To Net: NetName=Green_On2_Primary Pin=U3_Primary-2
+Added Pin To Net: NetName=Green_On2_Primary Pin=U17_Detection1-11
+Added Net: Name=Green_On2_Primary
+Added Pin To Net: NetName=Green_On2_Secondary Pin=U1_Secondary-5
+Added Pin To Net: NetName=Green_On2_Secondary Pin=U3_Secondary-2
+Added Pin To Net: NetName=Green_On2_Secondary Pin=U17_Detection2-11
+Added Net: Name=Green_On2_Secondary
+Added Pin To Net: NetName=Green_On3_Primary Pin=U1_Primary-10
+Added Pin To Net: NetName=Green_On3_Primary Pin=U3_Primary-4
+Added Pin To Net: NetName=Green_On3_Primary Pin=U17_Detection1-6
+Added Net: Name=Green_On3_Primary
+Added Pin To Net: NetName=Green_On3_Secondary Pin=U1_Secondary-10
+Added Pin To Net: NetName=Green_On3_Secondary Pin=U3_Secondary-4
+Added Pin To Net: NetName=Green_On3_Secondary Pin=U17_Detection2-6
+Added Net: Name=Green_On3_Secondary
+Added Pin To Net: NetName=Green_On_VD_Primary Pin=U1_Primary-13
+Added Pin To Net: NetName=Green_On_VD_Primary Pin=U3_Primary-5
+Added Pin To Net: NetName=Green_On_VD_Primary Pin=U9_Detection1-11
+Added Net: Name=Green_On_VD_Primary
+Added Pin To Net: NetName=Green_On_VD_Secondary Pin=U1_Secondary-13
+Added Pin To Net: NetName=Green_On_VD_Secondary Pin=U3_Secondary-5
+Added Pin To Net: NetName=Green_On_VD_Secondary Pin=U9_Detection2-11
+Added Net: Name=Green_On_VD_Secondary
+Added Pin To Net: NetName=In1 Pin=J1-2
+Added Pin To Net: NetName=In1 Pin=R12_Detection1-2
+Added Pin To Net: NetName=In1 Pin=R12_Detection2-2
+Added Pin To Net: NetName=In1 Pin=U7_Detection1-3
+Added Pin To Net: NetName=In1 Pin=U7_Detection2-3
+Added Pin To Net: NetName=In1 Pin=U10_Detection1-3
+Added Pin To Net: NetName=In1 Pin=U10_Detection2-3
+Added Pin To Net: NetName=In1 Pin=U12_Detection1-3
+Added Pin To Net: NetName=In1 Pin=U12_Detection2-3
+Added Net: Name=In1
+Added Pin To Net: NetName=In2 Pin=J2-2
+Added Pin To Net: NetName=In2 Pin=R14_Detection1-2
+Added Pin To Net: NetName=In2 Pin=R14_Detection2-2
+Added Pin To Net: NetName=In2 Pin=U15_Detection1-3
+Added Pin To Net: NetName=In2 Pin=U15_Detection2-3
+Added Pin To Net: NetName=In2 Pin=U18_Detection1-3
+Added Pin To Net: NetName=In2 Pin=U18_Detection2-3
+Added Pin To Net: NetName=In2 Pin=U20_Detection1-3
+Added Pin To Net: NetName=In2 Pin=U20_Detection2-3
+Added Net: Name=In2
+Added Pin To Net: NetName=In3 Pin=J3-2
+Added Pin To Net: NetName=In3 Pin=R15_Detection1-2
+Added Pin To Net: NetName=In3 Pin=R15_Detection2-2
+Added Pin To Net: NetName=In3 Pin=U21_Detection1-3
+Added Pin To Net: NetName=In3 Pin=U21_Detection2-3
+Added Pin To Net: NetName=In3 Pin=U23_Detection1-3
+Added Pin To Net: NetName=In3 Pin=U23_Detection2-3
+Added Pin To Net: NetName=In3 Pin=U24_Detection1-3
+Added Pin To Net: NetName=In3 Pin=U24_Detection2-3
+Added Net: Name=In3
+Added Pin To Net: NetName=In4 Pin=J4-2
+Added Pin To Net: NetName=In4 Pin=R13_Detection1-2
+Added Pin To Net: NetName=In4 Pin=R13_Detection2-2
+Added Pin To Net: NetName=In4 Pin=U11_Detection1-3
+Added Pin To Net: NetName=In4 Pin=U11_Detection2-3
+Added Pin To Net: NetName=In4 Pin=U14_Detection1-3
+Added Pin To Net: NetName=In4 Pin=U14_Detection2-3
+Added Pin To Net: NetName=In4 Pin=U19_Detection1-3
+Added Pin To Net: NetName=In4 Pin=U19_Detection2-3
+Added Net: Name=In4
+Added Pin To Net: NetName=NetR1_Primary_1 Pin=R1_Primary-1
+Added Pin To Net: NetName=NetR1_Primary_1 Pin=U2_Primary-9
+Added Pin To Net: NetName=NetR1_Primary_1 Pin=U2_Primary-10
+Added Pin To Net: NetName=NetR1_Primary_1 Pin=U2_Primary-12
+Added Pin To Net: NetName=NetR1_Primary_1 Pin=U2_Primary-13
+Added Pin To Net: NetName=NetR1_Primary_1 Pin=U4_Primary-9
+Added Pin To Net: NetName=NetR1_Primary_1 Pin=U4_Primary-10
+Added Pin To Net: NetName=NetR1_Primary_1 Pin=U4_Primary-11
+Added Pin To Net: NetName=NetR1_Primary_1 Pin=U4_Primary-12
+Added Pin To Net: NetName=NetR1_Primary_1 Pin=U5_Primary-3
+Added Net: Name=NetR1_Primary_1
+Added Pin To Net: NetName=NetR1_Secondary_1 Pin=R1_Secondary-1
+Added Pin To Net: NetName=NetR1_Secondary_1 Pin=U2_Secondary-9
+Added Pin To Net: NetName=NetR1_Secondary_1 Pin=U2_Secondary-10
+Added Pin To Net: NetName=NetR1_Secondary_1 Pin=U2_Secondary-12
+Added Pin To Net: NetName=NetR1_Secondary_1 Pin=U2_Secondary-13
+Added Pin To Net: NetName=NetR1_Secondary_1 Pin=U4_Secondary-9
+Added Pin To Net: NetName=NetR1_Secondary_1 Pin=U4_Secondary-10
+Added Pin To Net: NetName=NetR1_Secondary_1 Pin=U4_Secondary-11
+Added Pin To Net: NetName=NetR1_Secondary_1 Pin=U4_Secondary-12
+Added Pin To Net: NetName=NetR1_Secondary_1 Pin=U5_Secondary-3
+Added Net: Name=NetR1_Secondary_1
+Added Pin To Net: NetName=NetR2_Primary_2 Pin=R2_Primary-2
+Added Pin To Net: NetName=NetR2_Primary_2 Pin=U2_Primary-8
+Added Net: Name=NetR2_Primary_2
+Added Pin To Net: NetName=NetR2_Secondary_2 Pin=R2_Secondary-2
+Added Pin To Net: NetName=NetR2_Secondary_2 Pin=U2_Secondary-8
+Added Net: Name=NetR2_Secondary_2
+Added Pin To Net: NetName=NetR3_Primary_2 Pin=R3_Primary-2
+Added Pin To Net: NetName=NetR3_Primary_2 Pin=U2_Primary-11
+Added Net: Name=NetR3_Primary_2
+Added Pin To Net: NetName=NetR3_Secondary_2 Pin=R3_Secondary-2
+Added Pin To Net: NetName=NetR3_Secondary_2 Pin=U2_Secondary-11
+Added Net: Name=NetR3_Secondary_2
+Added Pin To Net: NetName=NetR4_Primary_2 Pin=R4_Primary-2
+Added Pin To Net: NetName=NetR4_Primary_2 Pin=U4_Primary-13
+Added Net: Name=NetR4_Primary_2
+Added Pin To Net: NetName=NetR4_Secondary_2 Pin=R4_Secondary-2
+Added Pin To Net: NetName=NetR4_Secondary_2 Pin=U4_Secondary-13
+Added Net: Name=NetR4_Secondary_2
+Added Pin To Net: NetName=NetR5_Primary_2 Pin=R5_Primary-2
+Added Pin To Net: NetName=NetR5_Primary_2 Pin=U5_Primary-4
+Added Net: Name=NetR5_Primary_2
+Added Pin To Net: NetName=NetR5_Secondary_2 Pin=R5_Secondary-2
+Added Pin To Net: NetName=NetR5_Secondary_2 Pin=U5_Secondary-4
+Added Net: Name=NetR5_Secondary_2
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=U25-2
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=U26-2
+Added Net: Name=NetR17_2
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR18_2 Pin=U28-3
+Added Net: Name=NetR18_2
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=U29-3
+Added Net: Name=NetR19_2
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetR20_2 Pin=U28-2
+Added Net: Name=NetR20_2
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=U29-2
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetU1_Primary_3 Pin=U1_Primary-3
+Added Pin To Net: NetName=NetU1_Primary_3 Pin=U3_Primary-9
+Added Net: Name=NetU1_Primary_3
+Added Pin To Net: NetName=NetU1_Primary_6 Pin=U1_Primary-6
+Added Pin To Net: NetName=NetU1_Primary_6 Pin=U3_Primary-10
+Added Net: Name=NetU1_Primary_6
+Added Pin To Net: NetName=NetU1_Primary_8 Pin=U1_Primary-8
+Added Pin To Net: NetName=NetU1_Primary_8 Pin=U3_Primary-12
+Added Net: Name=NetU1_Primary_8
+Added Pin To Net: NetName=NetU1_Primary_11 Pin=U1_Primary-11
+Added Pin To Net: NetName=NetU1_Primary_11 Pin=U3_Primary-13
+Added Net: Name=NetU1_Primary_11
+Added Pin To Net: NetName=NetU1_Secondary_3 Pin=U1_Secondary-3
+Added Pin To Net: NetName=NetU1_Secondary_3 Pin=U3_Secondary-9
+Added Net: Name=NetU1_Secondary_3
+Added Pin To Net: NetName=NetU1_Secondary_6 Pin=U1_Secondary-6
+Added Pin To Net: NetName=NetU1_Secondary_6 Pin=U3_Secondary-10
+Added Net: Name=NetU1_Secondary_6
+Added Pin To Net: NetName=NetU1_Secondary_8 Pin=U1_Secondary-8
+Added Pin To Net: NetName=NetU1_Secondary_8 Pin=U3_Secondary-12
+Added Net: Name=NetU1_Secondary_8
+Added Pin To Net: NetName=NetU1_Secondary_11 Pin=U1_Secondary-11
+Added Pin To Net: NetName=NetU1_Secondary_11 Pin=U3_Secondary-13
+Added Net: Name=NetU1_Secondary_11
+Added Pin To Net: NetName=NetU2_Primary_1 Pin=U2_Primary-1
+Added Pin To Net: NetName=NetU2_Primary_1 Pin=U2_Primary-4
+Added Pin To Net: NetName=NetU2_Primary_1 Pin=U3_Primary-8
+Added Net: Name=NetU2_Primary_1
+Added Pin To Net: NetName=NetU2_Primary_2 Pin=U2_Primary-2
+Added Pin To Net: NetName=NetU2_Primary_2 Pin=U3_Primary-6
+Added Net: Name=NetU2_Primary_2
+Added Pin To Net: NetName=NetU2_Primary_5 Pin=U2_Primary-5
+Added Pin To Net: NetName=NetU2_Primary_5 Pin=U5_Primary-6
+Added Net: Name=NetU2_Primary_5
+Added Pin To Net: NetName=NetU2_Secondary_1 Pin=U2_Secondary-1
+Added Pin To Net: NetName=NetU2_Secondary_1 Pin=U2_Secondary-4
+Added Pin To Net: NetName=NetU2_Secondary_1 Pin=U3_Secondary-8
+Added Net: Name=NetU2_Secondary_1
+Added Pin To Net: NetName=NetU2_Secondary_2 Pin=U2_Secondary-2
+Added Pin To Net: NetName=NetU2_Secondary_2 Pin=U3_Secondary-6
+Added Net: Name=NetU2_Secondary_2
+Added Pin To Net: NetName=NetU2_Secondary_5 Pin=U2_Secondary-5
+Added Pin To Net: NetName=NetU2_Secondary_5 Pin=U5_Secondary-6
+Added Net: Name=NetU2_Secondary_5
+Added Pin To Net: NetName=NetU4_Primary_1 Pin=U4_Primary-1
+Added Pin To Net: NetName=NetU4_Primary_1 Pin=U5_Primary-1
+Added Net: Name=NetU4_Primary_1
+Added Pin To Net: NetName=NetU4_Secondary_1 Pin=U4_Secondary-1
+Added Pin To Net: NetName=NetU4_Secondary_1 Pin=U5_Secondary-1
+Added Net: Name=NetU4_Secondary_1
+Added Pin To Net: NetName=NetU7_Detection1_1 Pin=U7_Detection1-1
+Added Pin To Net: NetName=NetU7_Detection1_1 Pin=U8_Detection1-1
+Added Net: Name=NetU7_Detection1_1
+Added Pin To Net: NetName=NetU7_Detection2_1 Pin=U7_Detection2-1
+Added Pin To Net: NetName=NetU7_Detection2_1 Pin=U8_Detection2-1
+Added Net: Name=NetU7_Detection2_1
+Added Pin To Net: NetName=NetU8_Detection1_3 Pin=U8_Detection1-3
+Added Pin To Net: NetName=NetU8_Detection1_3 Pin=U9_Detection1-2
+Added Pin To Net: NetName=NetU8_Detection1_3 Pin=U10_Detection1-1
+Added Net: Name=NetU8_Detection1_3
+Added Pin To Net: NetName=NetU8_Detection1_4 Pin=U8_Detection1-4
+Added Pin To Net: NetName=NetU8_Detection1_4 Pin=U9_Detection1-4
+Added Net: Name=NetU8_Detection1_4
+Added Pin To Net: NetName=NetU8_Detection1_6 Pin=U8_Detection1-6
+Added Pin To Net: NetName=NetU8_Detection1_6 Pin=U9_Detection1-1
+Added Net: Name=NetU8_Detection1_6
+Added Pin To Net: NetName=NetU8_Detection2_3 Pin=U8_Detection2-3
+Added Pin To Net: NetName=NetU8_Detection2_3 Pin=U9_Detection2-2
+Added Pin To Net: NetName=NetU8_Detection2_3 Pin=U10_Detection2-1
+Added Net: Name=NetU8_Detection2_3
+Added Pin To Net: NetName=NetU8_Detection2_4 Pin=U8_Detection2-4
+Added Pin To Net: NetName=NetU8_Detection2_4 Pin=U9_Detection2-4
+Added Net: Name=NetU8_Detection2_4
+Added Pin To Net: NetName=NetU8_Detection2_6 Pin=U8_Detection2-6
+Added Pin To Net: NetName=NetU8_Detection2_6 Pin=U9_Detection2-1
+Added Net: Name=NetU8_Detection2_6
+Added Pin To Net: NetName=NetU9_Detection1_5 Pin=U9_Detection1-5
+Added Pin To Net: NetName=NetU9_Detection1_5 Pin=U12_Detection1-1
+Added Net: Name=NetU9_Detection1_5
+Added Pin To Net: NetName=NetU9_Detection1_9 Pin=U9_Detection1-9
+Added Pin To Net: NetName=NetU9_Detection1_9 Pin=U13_Detection1-6
+Added Net: Name=NetU9_Detection1_9
+Added Pin To Net: NetName=NetU9_Detection1_10 Pin=U9_Detection1-10
+Added Pin To Net: NetName=NetU9_Detection1_10 Pin=U13_Detection1-3
+Added Pin To Net: NetName=NetU9_Detection1_10 Pin=U14_Detection1-1
+Added Net: Name=NetU9_Detection1_10
+Added Pin To Net: NetName=NetU9_Detection1_12 Pin=U9_Detection1-12
+Added Pin To Net: NetName=NetU9_Detection1_12 Pin=U13_Detection1-4
+Added Net: Name=NetU9_Detection1_12
+Added Pin To Net: NetName=NetU9_Detection1_13 Pin=U9_Detection1-13
+Added Pin To Net: NetName=NetU9_Detection1_13 Pin=U19_Detection1-1
+Added Net: Name=NetU9_Detection1_13
+Added Pin To Net: NetName=NetU9_Detection2_5 Pin=U9_Detection2-5
+Added Pin To Net: NetName=NetU9_Detection2_5 Pin=U12_Detection2-1
+Added Net: Name=NetU9_Detection2_5
+Added Pin To Net: NetName=NetU9_Detection2_9 Pin=U9_Detection2-9
+Added Pin To Net: NetName=NetU9_Detection2_9 Pin=U13_Detection2-6
+Added Net: Name=NetU9_Detection2_9
+Added Pin To Net: NetName=NetU9_Detection2_10 Pin=U9_Detection2-10
+Added Pin To Net: NetName=NetU9_Detection2_10 Pin=U13_Detection2-3
+Added Pin To Net: NetName=NetU9_Detection2_10 Pin=U14_Detection2-1
+Added Net: Name=NetU9_Detection2_10
+Added Pin To Net: NetName=NetU9_Detection2_12 Pin=U9_Detection2-12
+Added Pin To Net: NetName=NetU9_Detection2_12 Pin=U13_Detection2-4
+Added Net: Name=NetU9_Detection2_12
+Added Pin To Net: NetName=NetU9_Detection2_13 Pin=U9_Detection2-13
+Added Pin To Net: NetName=NetU9_Detection2_13 Pin=U19_Detection2-1
+Added Net: Name=NetU9_Detection2_13
+Added Pin To Net: NetName=NetU11_Detection1_1 Pin=U11_Detection1-1
+Added Pin To Net: NetName=NetU11_Detection1_1 Pin=U13_Detection1-1
+Added Net: Name=NetU11_Detection1_1
+Added Pin To Net: NetName=NetU11_Detection2_1 Pin=U11_Detection2-1
+Added Pin To Net: NetName=NetU11_Detection2_1 Pin=U13_Detection2-1
+Added Net: Name=NetU11_Detection2_1
+Added Pin To Net: NetName=NetU15_Detection1_1 Pin=U15_Detection1-1
+Added Pin To Net: NetName=NetU15_Detection1_1 Pin=U16_Detection1-1
+Added Net: Name=NetU15_Detection1_1
+Added Pin To Net: NetName=NetU15_Detection2_1 Pin=U15_Detection2-1
+Added Pin To Net: NetName=NetU15_Detection2_1 Pin=U16_Detection2-1
+Added Net: Name=NetU15_Detection2_1
+Added Pin To Net: NetName=NetU16_Detection1_3 Pin=U16_Detection1-3
+Added Pin To Net: NetName=NetU16_Detection1_3 Pin=U17_Detection1-10
+Added Pin To Net: NetName=NetU16_Detection1_3 Pin=U18_Detection1-1
+Added Net: Name=NetU16_Detection1_3
+Added Pin To Net: NetName=NetU16_Detection1_4 Pin=U16_Detection1-4
+Added Pin To Net: NetName=NetU16_Detection1_4 Pin=U17_Detection1-12
+Added Net: Name=NetU16_Detection1_4
+Added Pin To Net: NetName=NetU16_Detection1_6 Pin=U16_Detection1-6
+Added Pin To Net: NetName=NetU16_Detection1_6 Pin=U17_Detection1-9
+Added Net: Name=NetU16_Detection1_6
+Added Pin To Net: NetName=NetU16_Detection2_3 Pin=U16_Detection2-3
+Added Pin To Net: NetName=NetU16_Detection2_3 Pin=U17_Detection2-10
+Added Pin To Net: NetName=NetU16_Detection2_3 Pin=U18_Detection2-1
+Added Net: Name=NetU16_Detection2_3
+Added Pin To Net: NetName=NetU16_Detection2_4 Pin=U16_Detection2-4
+Added Pin To Net: NetName=NetU16_Detection2_4 Pin=U17_Detection2-12
+Added Net: Name=NetU16_Detection2_4
+Added Pin To Net: NetName=NetU16_Detection2_6 Pin=U16_Detection2-6
+Added Pin To Net: NetName=NetU16_Detection2_6 Pin=U17_Detection2-9
+Added Net: Name=NetU16_Detection2_6
+Added Pin To Net: NetName=NetU17_Detection1_1 Pin=U17_Detection1-1
+Added Pin To Net: NetName=NetU17_Detection1_1 Pin=U22_Detection1-6
+Added Net: Name=NetU17_Detection1_1
+Added Pin To Net: NetName=NetU17_Detection1_2 Pin=U17_Detection1-2
+Added Pin To Net: NetName=NetU17_Detection1_2 Pin=U22_Detection1-3
+Added Pin To Net: NetName=NetU17_Detection1_2 Pin=U23_Detection1-1
+Added Net: Name=NetU17_Detection1_2
+Added Pin To Net: NetName=NetU17_Detection1_4 Pin=U17_Detection1-4
+Added Pin To Net: NetName=NetU17_Detection1_4 Pin=U22_Detection1-4
+Added Net: Name=NetU17_Detection1_4
+Added Pin To Net: NetName=NetU17_Detection1_5 Pin=U17_Detection1-5
+Added Pin To Net: NetName=NetU17_Detection1_5 Pin=U24_Detection1-1
+Added Net: Name=NetU17_Detection1_5
+Added Pin To Net: NetName=NetU17_Detection1_13 Pin=U17_Detection1-13
+Added Pin To Net: NetName=NetU17_Detection1_13 Pin=U20_Detection1-1
+Added Net: Name=NetU17_Detection1_13
+Added Pin To Net: NetName=NetU17_Detection2_1 Pin=U17_Detection2-1
+Added Pin To Net: NetName=NetU17_Detection2_1 Pin=U22_Detection2-6
+Added Net: Name=NetU17_Detection2_1
+Added Pin To Net: NetName=NetU17_Detection2_2 Pin=U17_Detection2-2
+Added Pin To Net: NetName=NetU17_Detection2_2 Pin=U22_Detection2-3
+Added Pin To Net: NetName=NetU17_Detection2_2 Pin=U23_Detection2-1
+Added Net: Name=NetU17_Detection2_2
+Added Pin To Net: NetName=NetU17_Detection2_4 Pin=U17_Detection2-4
+Added Pin To Net: NetName=NetU17_Detection2_4 Pin=U22_Detection2-4
+Added Net: Name=NetU17_Detection2_4
+Added Pin To Net: NetName=NetU17_Detection2_5 Pin=U17_Detection2-5
+Added Pin To Net: NetName=NetU17_Detection2_5 Pin=U24_Detection2-1
+Added Net: Name=NetU17_Detection2_5
+Added Pin To Net: NetName=NetU17_Detection2_13 Pin=U17_Detection2-13
+Added Pin To Net: NetName=NetU17_Detection2_13 Pin=U20_Detection2-1
+Added Net: Name=NetU17_Detection2_13
+Added Pin To Net: NetName=NetU21_Detection1_1 Pin=U21_Detection1-1
+Added Pin To Net: NetName=NetU21_Detection1_1 Pin=U22_Detection1-1
+Added Net: Name=NetU21_Detection1_1
+Added Pin To Net: NetName=NetU21_Detection2_1 Pin=U21_Detection2-1
+Added Pin To Net: NetName=NetU21_Detection2_1 Pin=U22_Detection2-1
+Added Net: Name=NetU21_Detection2_1
+Added Pin To Net: NetName=NetU25_3 Pin=U25-3
+Added Pin To Net: NetName=NetU25_3 Pin=U28-4
+Added Net: Name=NetU25_3
+Added Pin To Net: NetName=NetU26_3 Pin=U26-3
+Added Pin To Net: NetName=NetU26_3 Pin=U29-4
+Added Net: Name=NetU26_3
+Added Pin To Net: NetName=Out1 Pin=C6_Detection1-1
+Added Pin To Net: NetName=Out1 Pin=C6_Detection2-1
+Added Pin To Net: NetName=Out1 Pin=C7_Detection1-2
+Added Pin To Net: NetName=Out1 Pin=C7_Detection2-2
+Added Pin To Net: NetName=Out1 Pin=C8_Detection1-2
+Added Pin To Net: NetName=Out1 Pin=C8_Detection2-2
+Added Pin To Net: NetName=Out1 Pin=C9_Detection1-2
+Added Pin To Net: NetName=Out1 Pin=C9_Detection2-2
+Added Pin To Net: NetName=Out1 Pin=C10_Detection1-2
+Added Pin To Net: NetName=Out1 Pin=C10_Detection2-2
+Added Pin To Net: NetName=Out1 Pin=C11_Detection1-2
+Added Pin To Net: NetName=Out1 Pin=C11_Detection2-2
+Added Pin To Net: NetName=Out1 Pin=J1-1
+Added Pin To Net: NetName=Out1 Pin=J2-1
+Added Pin To Net: NetName=Out1 Pin=J3-1
+Added Pin To Net: NetName=Out1 Pin=J4-1
+Added Pin To Net: NetName=Out1 Pin=R6_Detection1-2
+Added Pin To Net: NetName=Out1 Pin=R6_Detection2-2
+Added Pin To Net: NetName=Out1 Pin=R7_Detection1-2
+Added Pin To Net: NetName=Out1 Pin=R7_Detection2-2
+Added Pin To Net: NetName=Out1 Pin=R8_Detection1-2
+Added Pin To Net: NetName=Out1 Pin=R8_Detection2-2
+Added Pin To Net: NetName=Out1 Pin=U7_Detection1-5
+Added Pin To Net: NetName=Out1 Pin=U7_Detection2-5
+Added Pin To Net: NetName=Out1 Pin=U8_Detection1-5
+Added Pin To Net: NetName=Out1 Pin=U8_Detection2-5
+Added Pin To Net: NetName=Out1 Pin=U9_Detection1-14
+Added Pin To Net: NetName=Out1 Pin=U9_Detection2-14
+Added Pin To Net: NetName=Out1 Pin=U10_Detection1-5
+Added Pin To Net: NetName=Out1 Pin=U10_Detection2-5
+Added Pin To Net: NetName=Out1 Pin=U11_Detection1-5
+Added Pin To Net: NetName=Out1 Pin=U11_Detection2-5
+Added Pin To Net: NetName=Out1 Pin=U12_Detection1-5
+Added Pin To Net: NetName=Out1 Pin=U12_Detection2-5
+Added Pin To Net: NetName=Out1 Pin=U13_Detection1-5
+Added Pin To Net: NetName=Out1 Pin=U13_Detection2-5
+Added Pin To Net: NetName=Out1 Pin=U14_Detection1-5
+Added Pin To Net: NetName=Out1 Pin=U14_Detection2-5
+Added Pin To Net: NetName=Out1 Pin=U15_Detection1-5
+Added Pin To Net: NetName=Out1 Pin=U15_Detection2-5
+Added Pin To Net: NetName=Out1 Pin=U16_Detection1-5
+Added Pin To Net: NetName=Out1 Pin=U16_Detection2-5
+Added Pin To Net: NetName=Out1 Pin=U17_Detection1-14
+Added Pin To Net: NetName=Out1 Pin=U17_Detection2-14
+Added Pin To Net: NetName=Out1 Pin=U18_Detection1-5
+Added Pin To Net: NetName=Out1 Pin=U18_Detection2-5
+Added Pin To Net: NetName=Out1 Pin=U19_Detection1-5
+Added Pin To Net: NetName=Out1 Pin=U19_Detection2-5
+Added Pin To Net: NetName=Out1 Pin=U20_Detection1-5
+Added Pin To Net: NetName=Out1 Pin=U20_Detection2-5
+Added Pin To Net: NetName=Out1 Pin=U21_Detection1-5
+Added Pin To Net: NetName=Out1 Pin=U21_Detection2-5
+Added Pin To Net: NetName=Out1 Pin=U22_Detection1-5
+Added Pin To Net: NetName=Out1 Pin=U22_Detection2-5
+Added Pin To Net: NetName=Out1 Pin=U23_Detection1-5
+Added Pin To Net: NetName=Out1 Pin=U23_Detection2-5
+Added Pin To Net: NetName=Out1 Pin=U24_Detection1-5
+Added Pin To Net: NetName=Out1 Pin=U24_Detection2-5
+Added Net: Name=Out1
+Added Pin To Net: NetName=Out_High Pin=J5-2
+Added Pin To Net: NetName=Out_High Pin=U25-4
+Added Pin To Net: NetName=Out_High Pin=U26-4
+Added Net: Name=Out_High
+Added Pin To Net: NetName=Out_Low Pin=J5-3
+Added Pin To Net: NetName=Out_Low Pin=R18-1
+Added Pin To Net: NetName=Out_Low Pin=R19-1
+Added Net: Name=Out_Low
+Added Pin To Net: NetName=Red1 Pin=U2_Primary-6
+Added Pin To Net: NetName=Red1 Pin=U26-1
+Added Net: Name=Red1
+Added Pin To Net: NetName=Red2 Pin=U2_Secondary-6
+Added Pin To Net: NetName=Red2 Pin=U29-1
+Added Net: Name=Red2
+Added Pin To Net: NetName=Red_On1_Primary Pin=U1_Primary-1
+Added Pin To Net: NetName=Red_On1_Primary Pin=U4_Primary-2
+Added Pin To Net: NetName=Red_On1_Primary Pin=U9_Detection1-3
+Added Net: Name=Red_On1_Primary
+Added Pin To Net: NetName=Red_On1_Secondary Pin=U1_Secondary-1
+Added Pin To Net: NetName=Red_On1_Secondary Pin=U4_Secondary-2
+Added Pin To Net: NetName=Red_On1_Secondary Pin=U9_Detection2-3
+Added Net: Name=Red_On1_Secondary
+Added Pin To Net: NetName=Red_On2_Primary Pin=U1_Primary-4
+Added Pin To Net: NetName=Red_On2_Primary Pin=U4_Primary-3
+Added Pin To Net: NetName=Red_On2_Primary Pin=U17_Detection1-8
+Added Net: Name=Red_On2_Primary
+Added Pin To Net: NetName=Red_On2_Secondary Pin=U1_Secondary-4
+Added Pin To Net: NetName=Red_On2_Secondary Pin=U4_Secondary-3
+Added Pin To Net: NetName=Red_On2_Secondary Pin=U17_Detection2-8
+Added Net: Name=Red_On2_Secondary
+Added Pin To Net: NetName=Red_On3_Primary Pin=U1_Primary-9
+Added Pin To Net: NetName=Red_On3_Primary Pin=U4_Primary-4
+Added Pin To Net: NetName=Red_On3_Primary Pin=U17_Detection1-3
+Added Net: Name=Red_On3_Primary
+Added Pin To Net: NetName=Red_On3_Secondary Pin=U1_Secondary-9
+Added Pin To Net: NetName=Red_On3_Secondary Pin=U4_Secondary-4
+Added Pin To Net: NetName=Red_On3_Secondary Pin=U17_Detection2-3
+Added Net: Name=Red_On3_Secondary
+Added Pin To Net: NetName=Red_On_VD_Primary Pin=U1_Primary-12
+Added Pin To Net: NetName=Red_On_VD_Primary Pin=U4_Primary-5
+Added Pin To Net: NetName=Red_On_VD_Primary Pin=U9_Detection1-8
+Added Net: Name=Red_On_VD_Primary
+Added Pin To Net: NetName=Red_On_VD_Secondary Pin=U1_Secondary-12
+Added Pin To Net: NetName=Red_On_VD_Secondary Pin=U4_Secondary-5
+Added Pin To Net: NetName=Red_On_VD_Secondary Pin=U9_Detection2-8
+Added Net: Name=Red_On_VD_Secondary
+Added Class: Name=1
+Added Class: Name=Detection1
+Added Class: Name=Detection2
+Added Class: Name=Primary
+Added Class: Name=Secondary
+Added Class: Name=DetectionPart
+Added Class: Name=Main
+Added Room: Name=1
+Added Room: Name=Detection1
+Added Room: Name=Detection2
+Added Room: Name=Primary
+Added Room: Name=Secondary

@@ -1,0 +1,160 @@
+Removed Member From Class: ClassName=1 Member=R17
+Removed Member From Class: ClassName=1 Member=R19
+Removed Member From Class: ClassName=1 Member=R21
+Change Component Designator: OldDesignator=* NewDesignator=*1
+Change Component Designator: OldDesignator=C2 NewDesignator=C11
+Change Component Designator: OldDesignator=C3 NewDesignator=C13
+Change Component Designator: OldDesignator=C4 NewDesignator=C15
+Change Component Designator: OldDesignator=C5 NewDesignator=C16
+Change Component Designator: OldDesignator=C6 NewDesignator=C18
+Change Component Designator: OldDesignator=C7 NewDesignator=C19
+Change Component Designator: OldDesignator=C8 NewDesignator=C29
+Change Component Designator: OldDesignator=C9 NewDesignator=C31
+Change Component Designator: OldDesignator=C10 NewDesignator=C33
+Change Component Designator: OldDesignator=C11 NewDesignator=C34
+Change Component Designator: OldDesignator=C12 NewDesignator=C36
+Change Component Designator: OldDesignator=C13 NewDesignator=C37
+Change Component Designator: OldDesignator=C13_Detection1 NewDesignator=C2
+Change Component Designator: OldDesignator=C13_Detection2 NewDesignator=C20
+Change Component Designator: OldDesignator=C14 NewDesignator=C38
+Change Component Designator: OldDesignator=C14_Detection1 NewDesignator=C3
+Change Component Designator: OldDesignator=C14_Detection2 NewDesignator=C21
+Change Component Designator: OldDesignator=C15 NewDesignator=C39
+Change Component Designator: OldDesignator=C15_Detection1 NewDesignator=C4
+Change Component Designator: OldDesignator=C15_Detection2 NewDesignator=C22
+Change Component Designator: OldDesignator=C16 NewDesignator=C40
+Change Component Designator: OldDesignator=C16_Detection1 NewDesignator=C5
+Change Component Designator: OldDesignator=C16_Detection2 NewDesignator=C23
+Change Component Designator: OldDesignator=C17 NewDesignator=C41
+Change Component Designator: OldDesignator=C17_Detection1 NewDesignator=C6
+Change Component Designator: OldDesignator=C17_Detection2 NewDesignator=C24
+Change Component Designator: OldDesignator=C18 NewDesignator=C42
+Change Component Designator: OldDesignator=C18_Detection1 NewDesignator=C7
+Change Component Designator: OldDesignator=C18_Detection2 NewDesignator=C25
+Change Component Designator: OldDesignator=C19 NewDesignator=C43
+Change Component Designator: OldDesignator=C19_Detection1 NewDesignator=C8
+Change Component Designator: OldDesignator=C19_Detection2 NewDesignator=C26
+Change Component Designator: OldDesignator=C20 NewDesignator=C44
+Change Component Designator: OldDesignator=C20_Detection1 NewDesignator=C9
+Change Component Designator: OldDesignator=C20_Detection2 NewDesignator=C27
+Change Component Designator: OldDesignator=C21 NewDesignator=C45
+Change Component Designator: OldDesignator=C21_Detection1 NewDesignator=C10
+Change Component Designator: OldDesignator=C21_Detection2 NewDesignator=C28
+Change Component Designator: OldDesignator=C22 NewDesignator=C46
+Change Component Designator: OldDesignator=C22_Detection1 NewDesignator=C12
+Change Component Designator: OldDesignator=C22_Detection2 NewDesignator=C30
+Change Component Designator: OldDesignator=C23 NewDesignator=C47
+Change Component Designator: OldDesignator=C23_Detection1 NewDesignator=C14
+Change Component Designator: OldDesignator=C23_Detection2 NewDesignator=C32
+Change Component Designator: OldDesignator=C24_Detection1 NewDesignator=C17
+Change Component Designator: OldDesignator=C24_Detection2 NewDesignator=C35
+Added Member To Class: ClassName=1 Member=Component C1 (C12) 4.7uF
+Added Member To Class: ClassName=Detection1 Member=Component C11 (C6) 0.1uF
+Added Member To Class: ClassName=Detection1 Member=Component C13 (C7) 0.1uF
+Added Member To Class: ClassName=Detection1 Member=Component C15 (C8) 0.1uF
+Added Member To Class: ClassName=Detection1 Member=Component C16 (C9) 0.1uF
+Added Member To Class: ClassName=Detection1 Member=Component C18 (C10) 0.1uF
+Added Member To Class: ClassName=Detection1 Member=Component C19 (C11) 0.1uF
+Added Member To Class: ClassName=Detection2 Member=Component C29 (C6) 0.1uF
+Added Member To Class: ClassName=Detection2 Member=Component C31 (C7) 0.1uF
+Added Member To Class: ClassName=Detection2 Member=Component C33 (C8) 0.1uF
+Added Member To Class: ClassName=Detection2 Member=Component C34 (C9) 0.1uF
+Added Member To Class: ClassName=Detection2 Member=Component C36 (C10) 0.1uF
+Added Member To Class: ClassName=Detection2 Member=Component C37 (C11) 0.1uF
+Added Member To Class: ClassName=Primary Member=Component C38 (C1) 0.1uF
+Added Member To Class: ClassName=Primary Member=Component C39 (C2) 0.1uF
+Added Member To Class: ClassName=Primary Member=Component C40 (C3) 0.1uF
+Added Member To Class: ClassName=Primary Member=Component C41 (C4) 0.1uF
+Added Member To Class: ClassName=Primary Member=Component C42 (C5) 0.1uF
+Added Member To Class: ClassName=Secondary Member=Component C43 (C1) 0.1uF
+Added Member To Class: ClassName=Secondary Member=Component C44 (C2) 0.1uF
+Added Member To Class: ClassName=Secondary Member=Component C45 (C3) 0.1uF
+Added Member To Class: ClassName=Secondary Member=Component C46 (C4) 0.1uF
+Added Member To Class: ClassName=Secondary Member=Component C47 (C5) 0.1uF
+Added Member To Class: ClassName=1 Member=Component R1 (R16) 1k
+Added Member To Class: ClassName=1 Member=Component R2 (R17) 1k
+Added Member To Class: ClassName=1 Member=Component R3 (R18) 1k
+Added Member To Class: ClassName=1 Member=Component R4 (R19) 1k
+Added Member To Class: ClassName=1 Member=Component R5 (R20) 1k
+Added Member To Class: ClassName=1 Member=Component R6 (R21) 1k
+Added Member To Class: ClassName=Detection1 Member=Component R7 (R6) 1k
+Added Member To Class: ClassName=Detection1 Member=Component R8 (R7) 1k
+Added Member To Class: ClassName=Detection1 Member=Component R9 (R8) 1k
+Added Member To Class: ClassName=Detection1 Member=Component R10 (R9) 4.7k
+Added Member To Class: ClassName=Detection1 Member=Component R11 (R10) 4.7k
+Added Member To Class: ClassName=Detection1 Member=Component R12 (R11) 4.7k
+Added Member To Class: ClassName=Detection1 Member=Component R13 (R12) 1k
+Added Member To Class: ClassName=Detection1 Member=Component R14 (R13) 1k
+Added Member To Class: ClassName=Detection1 Member=Component R15 (R14) 1k
+Added Member To Class: ClassName=Detection1 Member=Component R16 (R15) 1k
+Added Member To Class: ClassName=Detection2 Member=Component R17 (R6) 1k
+Added Member To Class: ClassName=Detection2 Member=Component R18 (R7) 1k
+Added Member To Class: ClassName=Detection2 Member=Component R19 (R8) 1k
+Added Member To Class: ClassName=Detection2 Member=Component R20 (R9) 4.7k
+Added Member To Class: ClassName=Detection2 Member=Component R21 (R10) 4.7k
+Added Member To Class: ClassName=Detection2 Member=Component R22 (R11) 4.7k
+Added Member To Class: ClassName=Detection2 Member=Component R23 (R12) 1k
+Added Member To Class: ClassName=Detection2 Member=Component R24 (R13) 1k
+Added Member To Class: ClassName=Detection2 Member=Component R25 (R14) 1k
+Added Member To Class: ClassName=Detection2 Member=Component R26 (R15) 1k
+Added Member To Class: ClassName=Primary Member=Component R27 (R1) 10k
+Added Member To Class: ClassName=Primary Member=Component R28 (R2) 10k
+Added Member To Class: ClassName=Primary Member=Component R29 (R3) 10k
+Added Member To Class: ClassName=Primary Member=Component R30 (R4) 10k
+Added Member To Class: ClassName=Primary Member=Component R31 (R5) 10k
+Added Member To Class: ClassName=Secondary Member=Component R32 (R1) 10k
+Added Member To Class: ClassName=Secondary Member=Component R33 (R2) 10k
+Added Member To Class: ClassName=Secondary Member=Component R34 (R3) 10k
+Added Member To Class: ClassName=Secondary Member=Component R35 (R4) 10k
+Added Member To Class: ClassName=Secondary Member=Component R36 (R5) 10k
+Added Member To Class: ClassName=1 Member=Component U1 (U25) Opt
+Added Member To Class: ClassName=1 Member=Component U2 (U26) Opt
+Added Member To Class: ClassName=1 Member=Component U3 (U27) DC/DC
+Added Member To Class: ClassName=1 Member=Component U4 (U28) Opt
+Added Member To Class: ClassName=1 Member=Component U5 (U29) Opt
+Added Member To Class: ClassName=Detection1 Member=Component U6 (U7) Comp
+Added Member To Class: ClassName=Detection1 Member=Component U7 (U10) Comp
+Added Member To Class: ClassName=Detection1 Member=Component U8 (U11) Comp
+Added Member To Class: ClassName=Detection1 Member=Component U9 (U12) Comp
+Added Member To Class: ClassName=Detection1 Member=Component U10 (U14) Comp
+Added Member To Class: ClassName=Detection1 Member=Component U11 (U15) Comp
+Added Member To Class: ClassName=Detection1 Member=Component U12 (U13A) Inv
+Added Member To Class: ClassName=Detection1 Member=Component U13 (U9A) 2AND
+Added Member To Class: ClassName=Detection1 Member=Component U14 (U18) Comp
+Added Member To Class: ClassName=Detection1 Member=Component U15 (U19) Comp
+Added Member To Class: ClassName=Detection1 Member=Component U16 (U8A) Inv
+Added Member To Class: ClassName=Detection1 Member=Component U17 (U20) Comp
+Added Member To Class: ClassName=Detection1 Member=Component U18 (U21) Comp
+Added Member To Class: ClassName=Detection1 Member=Component U19 (U23) Comp
+Added Member To Class: ClassName=Detection1 Member=Component U20 (U16A) Inv
+Added Member To Class: ClassName=Detection1 Member=Component U21 (U24) Comp
+Added Member To Class: ClassName=Detection1 Member=Component U22 (U17A) 2AND
+Added Member To Class: ClassName=Detection1 Member=Component U23 (U22A) Inv
+Added Member To Class: ClassName=Detection2 Member=Component U24 (U7) Comp
+Added Member To Class: ClassName=Detection2 Member=Component U25 (U10) Comp
+Added Member To Class: ClassName=Detection2 Member=Component U26 (U11) Comp
+Added Member To Class: ClassName=Detection2 Member=Component U27 (U12) Comp
+Added Member To Class: ClassName=Detection2 Member=Component U28 (U14) Comp
+Added Member To Class: ClassName=Detection2 Member=Component U29 (U15) Comp
+Added Member To Class: ClassName=Detection2 Member=Component U30 (U13A) Inv
+Added Member To Class: ClassName=Detection2 Member=Component U31 (U9A) 2AND
+Added Member To Class: ClassName=Detection2 Member=Component U32 (U18) Comp
+Added Member To Class: ClassName=Detection2 Member=Component U33 (U19) Comp
+Added Member To Class: ClassName=Detection2 Member=Component U34 (U8A) Inv
+Added Member To Class: ClassName=Detection2 Member=Component U35 (U20) Comp
+Added Member To Class: ClassName=Detection2 Member=Component U36 (U21) Comp
+Added Member To Class: ClassName=Detection2 Member=Component U37 (U23) Comp
+Added Member To Class: ClassName=Detection2 Member=Component U38 (U16A) Inv
+Added Member To Class: ClassName=Detection2 Member=Component U39 (U24) Comp
+Added Member To Class: ClassName=Detection2 Member=Component U40 (U17A) 2AND
+Added Member To Class: ClassName=Detection2 Member=Component U41 (U22A) Inv
+Added Member To Class: ClassName=Primary Member=Component U42 (U1A) 2XOR
+Added Member To Class: ClassName=Primary Member=Component U43 (U2A) 2AND
+Added Member To Class: ClassName=Primary Member=Component U44 (U3A) 4AND
+Added Member To Class: ClassName=Primary Member=Component U45 (U4A) 4NOR
+Added Member To Class: ClassName=Primary Member=Component U46 (U5A) Inv
+Added Member To Class: ClassName=Secondary Member=Component U47 (U1A) 2XOR
+Added Member To Class: ClassName=Secondary Member=Component U48 (U2A) 2AND
+Added Member To Class: ClassName=Secondary Member=Component U49 (U3A) 4AND
+Added Member To Class: ClassName=Secondary Member=Component U50 (U4A) 4NOR
+Added Member To Class: ClassName=Secondary Member=Component U51 (U5A) Inv

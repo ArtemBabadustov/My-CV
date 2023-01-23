@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=1.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=1.SchDoc|Designator=Primary|SchDesignator=Primary|FileName=Main.SchDoc|SheetNumber=1|SymbolType=Normal|RawFileName=Main.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=1.SchDoc|Designator=Secondary|SchDesignator=Secondary|FileName=Main.SchDoc|SheetNumber=1|SymbolType=Normal|RawFileName=Main.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=Detection|SchDesignator=Detection|FileName=DetectionPart.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=DetectionPart.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

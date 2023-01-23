@@ -1,0 +1,494 @@
+Added Component: Designator=J1_RelayDetect1(MolexMicroFit 2x1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/0436500200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "436500200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J1_RelayDetect2(MolexMicroFit 2x1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/0436500200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "436500200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J1_RelayDetect3(MolexMicroFit 2x1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/0436500200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "436500200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J2(MolexMicroFit 4x1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/0436500400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "436500400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J3(MolexMicroFit 2x1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/0436500200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "436500200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=R1_RelayDetect1(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R1_RelayDetect2(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R1_RelayDetect3(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R2_RelayDetect1(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R2_RelayDetect2(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R2_RelayDetect3(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R6(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079728"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079728"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079728"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R10(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R11(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R12(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R13(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=R14(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079676"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=U2_RelayDetect1(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U2_RelayDetect2(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U2_RelayDetect3(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U4_RelayDetect1(Dip14)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "CHIPDIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/sn74als08n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/205/DOC000205515.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=U4_RelayDetect2(Dip14)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "CHIPDIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/sn74als08n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/205/DOC000205515.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=U4_RelayDetect3(Dip14)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "CHIPDIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/sn74als08n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/205/DOC000205515.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=U5_RelayDetect1(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U5_RelayDetect2(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U5_RelayDetect3(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U6_RelayDetect1(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U6_RelayDetect2(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U6_RelayDetect3(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U10(FAIR-MDIP-4_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/fod817b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/297/DOC000297284.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Nomber"; Value = "FOD817B"; VariantName = "[No Variations]"
+Added Component: Designator=U11(FAIR-MDIP-4_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/fod817b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/297/DOC000297284.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Nomber"; Value = "FOD817B"; VariantName = "[No Variations]"
+Added Component: Designator=U14(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U16(Dip14)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "CHIPDIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/sn74als08n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/205/DOC000205515.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=U17(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U18(SOT-23-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmv7219.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/ProductDetail/Texas-Instruments/LMV7219M5X-NOPB?qs=sGAEpiMZZMuayl%2FEk2kXcbEcxwmoPguctVQUIBgrLJY%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMV7219M5X/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SIP7)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/tmv2412s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/005/DOC001005854.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Traco Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TMH2412S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "IC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+2V Pin=R5-1
+Added Pin To Net: NetName=+2V Pin=R8-2
+Added Pin To Net: NetName=+2V Pin=U6_RelayDetect1-4
+Added Pin To Net: NetName=+2V Pin=U6_RelayDetect2-4
+Added Pin To Net: NetName=+2V Pin=U6_RelayDetect3-4
+Added Pin To Net: NetName=+2V Pin=U18-4
+Added Net: Name=+2V
+Added Pin To Net: NetName=+3V Pin=R4-1
+Added Pin To Net: NetName=+3V Pin=R7-2
+Added Pin To Net: NetName=+3V Pin=U5_RelayDetect1-4
+Added Pin To Net: NetName=+3V Pin=U5_RelayDetect2-4
+Added Pin To Net: NetName=+3V Pin=U5_RelayDetect3-4
+Added Pin To Net: NetName=+3V Pin=U17-4
+Added Net: Name=+3V
+Added Pin To Net: NetName=+4V Pin=R3-1
+Added Pin To Net: NetName=+4V Pin=R6-2
+Added Pin To Net: NetName=+4V Pin=U2_RelayDetect1-4
+Added Pin To Net: NetName=+4V Pin=U2_RelayDetect2-4
+Added Pin To Net: NetName=+4V Pin=U2_RelayDetect3-4
+Added Pin To Net: NetName=+4V Pin=U14-4
+Added Net: Name=+4V
+Added Pin To Net: NetName=+5V Pin=R1_RelayDetect1-2
+Added Pin To Net: NetName=+5V Pin=R1_RelayDetect2-2
+Added Pin To Net: NetName=+5V Pin=R1_RelayDetect3-2
+Added Pin To Net: NetName=+5V Pin=R3-2
+Added Pin To Net: NetName=+5V Pin=R4-2
+Added Pin To Net: NetName=+5V Pin=R5-2
+Added Pin To Net: NetName=+5V Pin=R13-2
+Added Pin To Net: NetName=+5V Pin=U2_RelayDetect1-5
+Added Pin To Net: NetName=+5V Pin=U2_RelayDetect2-5
+Added Pin To Net: NetName=+5V Pin=U2_RelayDetect3-5
+Added Pin To Net: NetName=+5V Pin=U5_RelayDetect1-5
+Added Pin To Net: NetName=+5V Pin=U5_RelayDetect2-5
+Added Pin To Net: NetName=+5V Pin=U5_RelayDetect3-5
+Added Pin To Net: NetName=+5V Pin=U6_RelayDetect1-5
+Added Pin To Net: NetName=+5V Pin=U6_RelayDetect2-5
+Added Pin To Net: NetName=+5V Pin=U6_RelayDetect3-5
+Added Pin To Net: NetName=+5V Pin=U14-5
+Added Pin To Net: NetName=+5V Pin=U17-5
+Added Pin To Net: NetName=+5V Pin=U18-5
+Added Pin To Net: NetName=+5V Pin=U?-6
+Added Net: Name=+5V
+Added Pin To Net: NetName=+24V_in Pin=J2-1
+Added Pin To Net: NetName=+24V_in Pin=U?-1
+Added Net: Name=+24V_in
+Added Pin To Net: NetName=GND_in Pin=J2-4
+Added Pin To Net: NetName=GND_in Pin=U?-2
+Added Net: Name=GND_in
+Added Pin To Net: NetName=GND Pin=R2_RelayDetect1-1
+Added Pin To Net: NetName=GND Pin=R2_RelayDetect2-1
+Added Pin To Net: NetName=GND Pin=R2_RelayDetect3-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=U2_RelayDetect1-2
+Added Pin To Net: NetName=GND Pin=U2_RelayDetect2-2
+Added Pin To Net: NetName=GND Pin=U2_RelayDetect3-2
+Added Pin To Net: NetName=GND Pin=U5_RelayDetect1-2
+Added Pin To Net: NetName=GND Pin=U5_RelayDetect2-2
+Added Pin To Net: NetName=GND Pin=U5_RelayDetect3-2
+Added Pin To Net: NetName=GND Pin=U6_RelayDetect1-2
+Added Pin To Net: NetName=GND Pin=U6_RelayDetect2-2
+Added Pin To Net: NetName=GND Pin=U6_RelayDetect3-2
+Added Pin To Net: NetName=GND Pin=U14-2
+Added Pin To Net: NetName=GND Pin=U17-2
+Added Pin To Net: NetName=GND Pin=U18-2
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Net: Name=GND
+Added Pin To Net: NetName=Green_On1 Pin=U4_RelayDetect1-6
+Added Net: Name=Green_On1
+Added Pin To Net: NetName=Green_On2 Pin=U4_RelayDetect2-6
+Added Net: Name=Green_On2
+Added Pin To Net: NetName=Green_On3 Pin=U4_RelayDetect3-6
+Added Net: Name=Green_On3
+Added Pin To Net: NetName=Green_On_VD Pin=U16-6
+Added Net: Name=Green_On_VD
+Added Pin To Net: NetName=NetJ1_RelayDetect1_1 Pin=J1_RelayDetect1-1
+Added Pin To Net: NetName=NetJ1_RelayDetect1_1 Pin=R1_RelayDetect1-1
+Added Net: Name=NetJ1_RelayDetect1_1
+Added Pin To Net: NetName=NetJ1_RelayDetect1_2 Pin=J1_RelayDetect1-2
+Added Pin To Net: NetName=NetJ1_RelayDetect1_2 Pin=R2_RelayDetect1-2
+Added Pin To Net: NetName=NetJ1_RelayDetect1_2 Pin=U2_RelayDetect1-3
+Added Pin To Net: NetName=NetJ1_RelayDetect1_2 Pin=U5_RelayDetect1-3
+Added Pin To Net: NetName=NetJ1_RelayDetect1_2 Pin=U6_RelayDetect1-3
+Added Net: Name=NetJ1_RelayDetect1_2
+Added Pin To Net: NetName=NetJ1_RelayDetect2_1 Pin=J1_RelayDetect2-1
+Added Pin To Net: NetName=NetJ1_RelayDetect2_1 Pin=R1_RelayDetect2-1
+Added Net: Name=NetJ1_RelayDetect2_1
+Added Pin To Net: NetName=NetJ1_RelayDetect2_2 Pin=J1_RelayDetect2-2
+Added Pin To Net: NetName=NetJ1_RelayDetect2_2 Pin=R2_RelayDetect2-2
+Added Pin To Net: NetName=NetJ1_RelayDetect2_2 Pin=U2_RelayDetect2-3
+Added Pin To Net: NetName=NetJ1_RelayDetect2_2 Pin=U5_RelayDetect2-3
+Added Pin To Net: NetName=NetJ1_RelayDetect2_2 Pin=U6_RelayDetect2-3
+Added Net: Name=NetJ1_RelayDetect2_2
+Added Pin To Net: NetName=NetJ1_RelayDetect3_1 Pin=J1_RelayDetect3-1
+Added Pin To Net: NetName=NetJ1_RelayDetect3_1 Pin=R1_RelayDetect3-1
+Added Net: Name=NetJ1_RelayDetect3_1
+Added Pin To Net: NetName=NetJ1_RelayDetect3_2 Pin=J1_RelayDetect3-2
+Added Pin To Net: NetName=NetJ1_RelayDetect3_2 Pin=R2_RelayDetect3-2
+Added Pin To Net: NetName=NetJ1_RelayDetect3_2 Pin=U2_RelayDetect3-3
+Added Pin To Net: NetName=NetJ1_RelayDetect3_2 Pin=U5_RelayDetect3-3
+Added Pin To Net: NetName=NetJ1_RelayDetect3_2 Pin=U6_RelayDetect3-3
+Added Net: Name=NetJ1_RelayDetect3_2
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=R13-1
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R14-2
+Added Pin To Net: NetName=NetJ3_2 Pin=U14-3
+Added Pin To Net: NetName=NetJ3_2 Pin=U17-3
+Added Pin To Net: NetName=NetJ3_2 Pin=U18-3
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U10-3
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=U10-2
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=U11-3
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=U11-2
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetU2_RelayDetect1_1 Pin=U2_RelayDetect1-1
+Added Net: Name=NetU2_RelayDetect1_1
+Added Pin To Net: NetName=NetU2_RelayDetect2_1 Pin=U2_RelayDetect2-1
+Added Net: Name=NetU2_RelayDetect2_1
+Added Pin To Net: NetName=NetU2_RelayDetect3_1 Pin=U2_RelayDetect3-1
+Added Net: Name=NetU2_RelayDetect3_1
+Added Pin To Net: NetName=NetU3_RelayDetect1_3 Pin=U4_RelayDetect1-2
+Added Pin To Net: NetName=NetU3_RelayDetect1_3 Pin=U5_RelayDetect1-1
+Added Net: Name=NetU3_RelayDetect1_3
+Added Pin To Net: NetName=NetU3_RelayDetect1_4 Pin=U4_RelayDetect1-4
+Added Net: Name=NetU3_RelayDetect1_4
+Added Pin To Net: NetName=NetU3_RelayDetect1_6 Pin=U4_RelayDetect1-1
+Added Net: Name=NetU3_RelayDetect1_6
+Added Pin To Net: NetName=NetU3_RelayDetect2_3 Pin=U4_RelayDetect2-2
+Added Pin To Net: NetName=NetU3_RelayDetect2_3 Pin=U5_RelayDetect2-1
+Added Net: Name=NetU3_RelayDetect2_3
+Added Pin To Net: NetName=NetU3_RelayDetect2_4 Pin=U4_RelayDetect2-4
+Added Net: Name=NetU3_RelayDetect2_4
+Added Pin To Net: NetName=NetU3_RelayDetect2_6 Pin=U4_RelayDetect2-1
+Added Net: Name=NetU3_RelayDetect2_6
+Added Pin To Net: NetName=NetU3_RelayDetect3_3 Pin=U4_RelayDetect3-2
+Added Pin To Net: NetName=NetU3_RelayDetect3_3 Pin=U5_RelayDetect3-1
+Added Net: Name=NetU3_RelayDetect3_3
+Added Pin To Net: NetName=NetU3_RelayDetect3_4 Pin=U4_RelayDetect3-4
+Added Net: Name=NetU3_RelayDetect3_4
+Added Pin To Net: NetName=NetU3_RelayDetect3_6 Pin=U4_RelayDetect3-1
+Added Net: Name=NetU3_RelayDetect3_6
+Added Pin To Net: NetName=NetU4_RelayDetect1_5 Pin=U4_RelayDetect1-5
+Added Pin To Net: NetName=NetU4_RelayDetect1_5 Pin=U6_RelayDetect1-1
+Added Net: Name=NetU4_RelayDetect1_5
+Added Pin To Net: NetName=NetU4_RelayDetect2_5 Pin=U4_RelayDetect2-5
+Added Pin To Net: NetName=NetU4_RelayDetect2_5 Pin=U6_RelayDetect2-1
+Added Net: Name=NetU4_RelayDetect2_5
+Added Pin To Net: NetName=NetU4_RelayDetect3_5 Pin=U4_RelayDetect3-5
+Added Pin To Net: NetName=NetU4_RelayDetect3_5 Pin=U6_RelayDetect3-1
+Added Net: Name=NetU4_RelayDetect3_5
+Added Net: Name=NetU7_3
+Added Net: Name=NetU7_6
+Added Net: Name=NetU7_8
+Added Net: Name=NetU7_11
+Added Net: Name=NetU8_6
+Added Net: Name=NetU8_8
+Added Pin To Net: NetName=NetU9_3 Pin=U10-1
+Added Net: Name=NetU9_3
+Added Net: Name=NetU9_5
+Added Pin To Net: NetName=NetU9_6 Pin=U11-1
+Added Net: Name=NetU9_6
+Added Net: Name=NetU12_1
+Added Pin To Net: NetName=NetU13_3 Pin=U16-2
+Added Pin To Net: NetName=NetU13_3 Pin=U17-1
+Added Net: Name=NetU13_3
+Added Pin To Net: NetName=NetU13_4 Pin=U16-4
+Added Net: Name=NetU13_4
+Added Pin To Net: NetName=NetU14_1 Pin=U14-1
+Added Net: Name=NetU14_1
+Added Pin To Net: NetName=NetU15_6 Pin=U16-1
+Added Net: Name=NetU15_6
+Added Pin To Net: NetName=NetU16_5 Pin=U16-5
+Added Pin To Net: NetName=NetU16_5 Pin=U18-1
+Added Net: Name=NetU16_5
+Added Pin To Net: NetName=Out_High Pin=J2-2
+Added Pin To Net: NetName=Out_High Pin=U10-4
+Added Pin To Net: NetName=Out_High Pin=U11-4
+Added Net: Name=Out_High
+Added Pin To Net: NetName=Out_Low Pin=J2-3
+Added Pin To Net: NetName=Out_Low Pin=R9-1
+Added Pin To Net: NetName=Out_Low Pin=R11-1
+Added Net: Name=Out_Low
+Added Pin To Net: NetName=Red_On1 Pin=U4_RelayDetect1-3
+Added Net: Name=Red_On1
+Added Pin To Net: NetName=Red_On2 Pin=U4_RelayDetect2-3
+Added Net: Name=Red_On2
+Added Pin To Net: NetName=Red_On3 Pin=U4_RelayDetect3-3
+Added Net: Name=Red_On3
+Added Pin To Net: NetName=Red_On_VD Pin=U16-3
+Added Net: Name=Red_On_VD
+Added Class: Name=Main
+Added Class: Name=RelayDetect1
+Added Class: Name=RelayDetect2
+Added Class: Name=RelayDetect3
+Added Class: Name=VoltageDetect
+Added Class: Name=Green_On[1..3]
+Added Class: Name=Red_On[1..3]
+Added Class: Name=RelayDetect
+Added Room: Name=Main
+Added Room: Name=RelayDetect1
+Added Room: Name=RelayDetect2
+Added Room: Name=RelayDetect3
+Added Room: Name=VoltageDetect

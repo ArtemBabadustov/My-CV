@@ -1,0 +1,102 @@
+Change Component Library : Designator=C1 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=C2 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=C3 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=C4 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=C5 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=C6 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=C7 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=C8 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=C10 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=C11 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=C12 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=C13 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=C14 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=C15 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=DA4 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=DD1 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=DD2 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=Q1 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=QZ1 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=U1 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=U2 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=U3 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=X1 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=X2 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Change Component Library : Designator=XP1 Old Library=Schlib2.SchLib New Library=Kursovoi proekt.IntLib
+Added Component: Designator=C9(0805)
+Added Component: Designator=D1(Diode)
+Added Component: Designator=D2(Diode)
+Added Component: Designator=D3(Diode)
+Added Component: Designator=DA1(SOIC-8)
+Added Component: Designator=DA2(SOIC-8)
+Added Component: Designator=DA3(SOIC-8)
+Added Component: Designator=R4(0805)
+Added Component: Designator=R5(0805)
+Added Component: Designator=R6(0805)
+Added Component: Designator=R7(0805)
+Added Component: Designator=R8(0805)
+Added Component: Designator=X3(MolexMicroFit 3x1)
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=C9-1
+Added Pin To Net: NetName=5ֲ Pin=C9-2
+Added Pin To Net: NetName=27ֲ Pin=D1-1
+Added Pin To Net: NetName=27ֲ Pin=D2-1
+Added Pin To Net: NetName=27ֲ Pin=D3-1
+Added Pin To Net: NetName=5ֲ_Op_Amp Pin=DA1-1
+Added Pin To Net: NetName=NetDA1_3 Pin=DA1-3
+Added Pin To Net: NetName=־בשטי 5ֲ_־ן_׃ס  Pin=DA1-4
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=DA1-5
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=DA1-6
+Added Pin To Net: NetName=ADC 0 Pin=DA1-7
+Added Pin To Net: NetName=5ֲ Pin=DA1-8
+Added Pin To Net: NetName=5ֲ_Op_Amp Pin=DA2-1
+Added Pin To Net: NetName=NetDA2_3 Pin=DA2-3
+Added Pin To Net: NetName=־בשטי 5ֲ_־ן_׃ס  Pin=DA2-4
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=DA2-5
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=DA2-6
+Added Pin To Net: NetName=ADC 1 Pin=DA2-7
+Added Pin To Net: NetName=5ֲ Pin=DA2-8
+Added Pin To Net: NetName=5ֲ_Op_Amp Pin=DA3-1
+Added Pin To Net: NetName=NetDA3_3 Pin=DA3-3
+Added Pin To Net: NetName=־בשטי 5ֲ_־ן_׃ס  Pin=DA3-4
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=DA3-5
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=DA3-6
+Added Pin To Net: NetName=ADC 2 Pin=DA3-7
+Added Pin To Net: NetName=5ֲ Pin=DA3-8
+Added Pin To Net: NetName=NetC13_1 Pin=R4-1
+Added Pin To Net: NetName=NetC12_2 Pin=R4-2
+Added Pin To Net: NetName=־בשטי 5ֲ Pin=R5-1
+Added Pin To Net: NetName=NetC13_1 Pin=R5-2
+Added Pin To Net: NetName=NetDA1_3 Pin=R6-1
+Added Pin To Net: NetName=NetDA2_3 Pin=R7-1
+Added Pin To Net: NetName=NetDA3_3 Pin=R8-1
+Added Pin To Net: NetName=NetDA1_3 Pin=X3-1
+Added Pin To Net: NetName=NetDA2_3 Pin=X3-2
+Added Pin To Net: NetName=NetDA3_3 Pin=X3-3
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=DA1-2
+Added Pin To Net: NetName=NetD1_2 Pin=DA5-4
+Added Pin To Net: NetName=NetD1_2 Pin=R6-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=DA2-2
+Added Pin To Net: NetName=NetD2_2 Pin=DA6-4
+Added Pin To Net: NetName=NetD2_2 Pin=R7-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=DA3-2
+Added Pin To Net: NetName=NetD3_2 Pin=DA7-4
+Added Pin To Net: NetName=NetD3_2 Pin=R8-2
+Added Net: Name=NetD3_2
+Added Member To Class: ClassName=Sheet4 Member=Component C9 CAP
+Added Member To Class: ClassName=Sheet4 Member=Component D1 Diode
+Added Member To Class: ClassName=Sheet4 Member=Component D2 Diode
+Added Member To Class: ClassName=Sheet4 Member=Component D3 Diode
+Added Member To Class: ClassName=Sheet4 Member=Component DA1 Isolated Op_Amp(AMC1350)
+Added Member To Class: ClassName=Sheet4 Member=Component DA2 Isolated Op_Amp(AMC1350)
+Added Member To Class: ClassName=Sheet4 Member=Component DA3 Isolated Op_Amp(AMC1350)
+Added Member To Class: ClassName=Sheet4 Member=Component R4 RES
+Added Member To Class: ClassName=Sheet4 Member=Component R5 RES
+Added Member To Class: ClassName=Sheet4 Member=Component R6 RES
+Added Member To Class: ClassName=Sheet4 Member=Component R7 RES
+Added Member To Class: ClassName=Sheet4 Member=Component R8 RES
+Added Member To Class: ClassName=Sheet4 Member=Component X3 3 pin RS485 connector (Molex)

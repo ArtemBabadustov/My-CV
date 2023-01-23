@@ -1,0 +1,27 @@
+Service , Message , Max , Min , Average , Count , frequency , TimedOut
+
+Tool,setupTool,200.7589,200.7589,200.7589,1,0
+Tool,getContext,9.9732,1.9939,5.98355,2,0
+Tool,connect,1.9955,1.9955,1.9955,1,0
+Tool,setProperties,53.857,53.857,53.857,1,0
+Device,getContext,1.9936,1.9936,1.9936,1,0
+Processes,launch,24.9474,24.9474,24.9474,1,0
+Processes,getContext,1.9956,1.9956,1.9956,1,0
+RunControl,getContext,0.9976,0.9976,0.9976,1,0
+Memory,getChildren,2.0505,2.0505,2.0505,1,0
+Memory,getContext,1.9946,0.9968,0.316760952380952,7,0
+Trace,getChildren,1.9949,1.9949,1.9949,1,0
+Trace,getContext,1.5849,1.5849,1.5849,1,0
+StackTrace,getChildren,5.1448,0.9468,0.0103095762321919,114,0
+StackTrace,getContext,7.9788,0.9571,0.0155185620344539,114,0
+LineNumbers,mapToSource,14.4212,0.9481,0.00332734448613895,610,0
+Registers,get,303.1613,0,0.000132580090073625,7524,0
+Memory,get,302.164,0.2834,0.0192527853980351,570,0
+Expressions,create,10.8226,1.3677,0.039338021518306,77,0
+Expressions,getContext,13.6528,0.9504,0.025990511427207,77,0
+Expressions,evaluate,13.1137,0.9519,0.0129483042840424,77,0
+Symbols,getContext,13.4078,0.9648,0.0131248060770504,77,0
+Expressions,dispose,3.1834,0.2574,0.0269145512712158,74,0
+RunControl,resume,3.203,0.9966,0.057352333153149,36,0
+Processes,terminate,58.5909,58.5909,58.5909,1,0
+Tool,tearDownTool,2.992,2.992,2.992,1,0
